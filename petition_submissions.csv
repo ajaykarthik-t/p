@@ -1,0 +1,4 @@
+Timestamp,Petition Text,Category,Confidence,Priority,Status
+2025-02-16 11:59:52,is no electricity in our area for past two days,Environment,0.13114719092845917,Low,Pending
+2025-02-16 12:09:11,Emergency repair needed for broken traffic signals at Main Street intersection,Environment,0.16447754204273224,High,Pending
+2025-02-16 12:09:40,Proposal for community garden in unused lot,Environment,0.15371252596378326,Low,Pending

@@ -1,0 +1,1001 @@
+name,email,petition,category,department,status,priority,created_at,votes
+Lisa Davis,lisa.davis@example.com,Request to develop traffic signals in the central area for community development.,Community Services,Community Development,Rejected,Low,2024-08-15 10:25:44.082748,452
+Jane Smith,jane.smith@example.com,Request to implement road maintenance in the business district for future generations.,Healthcare,Health Services,Rejected,Low,2024-07-22 10:25:44.082748,384
+Robert Williams,robert.williams@example.com,Request to upgrade water supply in the industrial zone to support local economy.,Infrastructure,City Planning,Resolved,Medium,2024-03-18 10:25:44.082748,459
+John Williams,john.williams@example.com,Request to maintain affordable housing in the industrial zone to address resident concerns.,Environment,Environmental Protection,Resolved,Low,2024-03-18 10:25:44.082748,868
+John Williams,john.williams@example.com,Request to establish affordable housing in the downtown to meet growing demands.,Infrastructure,Public Works,In Progress,Low,2024-08-22 10:25:44.082748,460
+Sarah Brown,sarah.brown@example.com,Request to create air quality in the industrial zone to address resident concerns.,Infrastructure,Public Works,Resolved,Low,2024-07-06 10:25:44.082748,488
+Sarah Smith,sarah.smith@example.com,Request to expand public transportation in the west side for future generations.,Environment,Parks and Recreation,Rejected,Low,2024-10-29 10:25:44.082748,859
+Emily Garcia,emily.garcia@example.com,Request to expand senior services in the business district to support local economy.,Community Services,Social Services,In Progress,Low,2024-07-26 10:25:44.082748,94
+David Brown,david.brown@example.com,Request to enhance senior services in the downtown to ensure public safety.,Healthcare,Health Services,Resolved,High,2024-06-23 10:25:44.082748,393
+David Williams,david.williams@example.com,Request to create sidewalk repairs in the downtown to support local economy.,Education,Youth Services,In Progress,Low,2024-09-13 10:25:44.082748,585
+John Garcia,john.garcia@example.com,Request to upgrade public safety in the industrial zone to support local economy.,Community Services,Social Services,Resolved,High,2024-11-17 10:25:44.082748,645
+Jane Jones,jane.jones@example.com,Request to expand bike lanes in the south district to improve accessibility.,Community Services,Social Services,Resolved,Medium,2024-09-22 10:25:44.082748,227
+Sarah Brown,sarah.brown@example.com,Request to upgrade parking facilities in the suburban area to improve accessibility.,Healthcare,Health Services,Resolved,Medium,2024-10-29 10:25:44.082748,909
+Lisa Brown,lisa.brown@example.com,Request to renovate air quality in the north district to support local economy.,Transportation,Transportation,In Progress,Low,2024-06-11 10:25:44.082748,428
+Michael Garcia,michael.garcia@example.com,Request to create school facilities in the downtown to improve accessibility.,Environment,Environmental Protection,Resolved,Medium,2025-01-14 10:25:44.082748,785
+Jane Jones,jane.jones@example.com,Request to establish road maintenance in the suburban area for future generations.,Healthcare,Health Services,Resolved,Low,2024-09-03 10:25:44.082748,709
+David Jones,david.jones@example.com,Request to expand noise pollution in the central area to address resident concerns.,Economic Development,Business Relations,Under Review,Low,2025-02-14 10:25:44.082748,324
+Lisa Miller,lisa.miller@example.com,Request to implement traffic signals in the suburban area for better quality of life.,Infrastructure,Public Works,Rejected,Low,2024-04-21 10:25:44.082748,395
+Sarah Williams,sarah.williams@example.com,Request to expand public transportation in the south district for better quality of life.,Education,Youth Services,In Progress,Low,2024-04-28 10:25:44.082748,975
+John Garcia,john.garcia@example.com,Request to create street lighting in the suburban area to meet growing demands.,Healthcare,Public Health,Resolved,Low,2024-10-02 10:25:44.082748,289
+Robert Williams,robert.williams@example.com,Request to establish parking facilities in the south district for environmental protection.,Infrastructure,City Planning,Resolved,Low,2024-12-25 10:25:44.082748,114
+Robert Miller,robert.miller@example.com,Request to maintain healthcare access in the south district to improve accessibility.,Transportation,Transportation,Resolved,Medium,2024-10-31 10:25:44.082748,471
+Emily Brown,emily.brown@example.com,Request to establish school facilities in the industrial zone to meet growing demands.,Infrastructure,Public Works,In Progress,Low,2024-10-25 10:25:44.082748,622
+John Miller,john.miller@example.com,Request to upgrade noise pollution in the south district for community development.,Education,Education,Resolved,Medium,2024-04-17 10:25:44.082748,104
+Jane Jones,jane.jones@example.com,Request to expand public safety in the industrial zone for environmental protection.,Infrastructure,Public Works,Under Review,High,2025-01-18 10:25:44.082748,37
+Jane Garcia,jane.garcia@example.com,Request to implement community centers in the west side for sustainable development.,Education,Education,Resolved,Low,2024-09-23 10:25:44.082748,715
+John Garcia,john.garcia@example.com,Request to expand affordable housing in the east side for better quality of life.,Infrastructure,Public Works,In Progress,Low,2024-10-16 10:25:44.082748,644
+Sarah Johnson,sarah.johnson@example.com,Request to maintain park facilities in the east side for environmental protection.,Infrastructure,City Planning,In Progress,Low,2024-03-08 10:25:44.082748,530
+Emily Jones,emily.jones@example.com,Request to improve noise pollution in the north district to address resident concerns.,Healthcare,Public Health,Resolved,Medium,2024-09-10 10:25:44.082748,178
+David Jones,david.jones@example.com,Request to establish parking facilities in the residential area to meet growing demands.,Transportation,Transportation,Resolved,Low,2025-01-08 10:25:44.082748,744
+Sarah Garcia,sarah.garcia@example.com,Request to maintain traffic signals in the industrial zone for sustainable development.,Public Safety,Emergency Services,Rejected,Low,2024-06-04 10:25:44.082748,407
+Jane Garcia,jane.garcia@example.com,Request to enhance senior services in the residential area to improve accessibility.,Infrastructure,City Planning,In Progress,Medium,2024-11-10 10:25:44.082748,684
+Jane Johnson,jane.johnson@example.com,Request to expand community centers in the west side for environmental protection.,Transportation,Traffic Management,Resolved,Low,2024-06-22 10:25:44.082748,198
+Sarah Williams,sarah.williams@example.com,Request to implement public safety in the north district to ensure public safety.,Environment,Parks and Recreation,Resolved,High,2024-03-22 10:25:44.082748,361
+Robert Johnson,robert.johnson@example.com,Request to establish small business support in the business district to support local economy.,Education,Youth Services,In Progress,Low,2024-09-25 10:25:44.082748,531
+Lisa Jones,lisa.jones@example.com,Request to renovate small business support in the residential area for environmental protection.,Environment,Environmental Protection,Resolved,Low,2024-04-17 10:25:44.082748,505
+Michael Davis,michael.davis@example.com,Request to maintain sidewalk repairs in the business district for environmental protection.,Education,Education,Rejected,Low,2024-08-13 10:25:44.082748,864
+Sarah Brown,sarah.brown@example.com,Request to improve road maintenance in the west side to address resident concerns.,Transportation,Traffic Management,In Progress,Medium,2024-09-10 10:25:44.082748,250
+Sarah Garcia,sarah.garcia@example.com,Request to implement senior services in the south district to meet growing demands.,Public Safety,Emergency Services,Resolved,Low,2024-04-21 10:25:44.082748,16
+Sarah Garcia,sarah.garcia@example.com,Request to improve air quality in the business district for better quality of life.,Public Safety,Public Safety,In Progress,Medium,2024-06-12 10:25:44.082748,590
+John Davis,john.davis@example.com,Request to establish bike lanes in the east side for future generations.,Environment,Parks and Recreation,In Progress,Low,2024-03-03 10:25:44.082748,950
+Sarah Miller,sarah.miller@example.com,Request to maintain parking facilities in the north district to meet growing demands.,Infrastructure,City Planning,Resolved,Low,2024-10-09 10:25:44.082748,704
+Jane Johnson,jane.johnson@example.com,Request to improve road maintenance in the business district for sustainable development.,Public Safety,Emergency Services,Resolved,Medium,2024-02-24 10:25:44.082748,498
+Jane Miller,jane.miller@example.com,Request to expand small business support in the business district for community development.,Healthcare,Public Health,In Progress,Low,2024-10-23 10:25:44.082748,807
+Michael Johnson,michael.johnson@example.com,Request to establish air quality in the suburban area for community development.,Public Safety,Emergency Services,In Progress,Low,2024-04-06 10:25:44.082748,660
+Robert Miller,robert.miller@example.com,Request to improve bike lanes in the suburban area for community development.,Infrastructure,Public Works,Resolved,Medium,2024-12-04 10:25:44.082748,224
+David Davis,david.davis@example.com,Request to implement park facilities in the east side to improve accessibility.,Economic Development,Business Relations,In Progress,Medium,2024-04-14 10:25:44.082748,971
+Lisa Miller,lisa.miller@example.com,Request to create air quality in the suburban area to meet growing demands.,Education,Education,Rejected,Low,2024-03-27 10:25:44.082748,613
+Jane Jones,jane.jones@example.com,Request to improve bike lanes in the east side for future generations.,Education,Education,Resolved,Medium,2024-10-31 10:25:44.082748,647
+Michael Miller,michael.miller@example.com,Request to maintain affordable housing in the suburban area for community development.,Community Services,Community Development,Resolved,Low,2024-08-23 10:25:44.082748,140
+Lisa Williams,lisa.williams@example.com,Request to renovate small business support in the residential area to address resident concerns.,Environment,Parks and Recreation,In Progress,Low,2024-05-04 10:25:44.082748,229
+David Davis,david.davis@example.com,Request to implement small business support in the east side to meet growing demands.,Environment,Parks and Recreation,Resolved,Low,2024-10-12 10:25:44.082748,555
+Michael Johnson,michael.johnson@example.com,Request to implement affordable housing in the business district to meet growing demands.,Transportation,Traffic Management,Resolved,Low,2024-09-24 10:25:44.082748,898
+Sarah Davis,sarah.davis@example.com,Request to expand street lighting in the business district for better quality of life.,Public Safety,Public Safety,Resolved,Low,2024-09-30 10:25:44.082748,606
+Michael Miller,michael.miller@example.com,Request to maintain public transportation in the downtown for better quality of life.,Infrastructure,City Planning,Under Review,Low,2025-01-21 10:25:44.082748,620
+Michael Johnson,michael.johnson@example.com,Request to maintain healthcare access in the suburban area to support local economy.,Economic Development,Economic Development,Rejected,Low,2024-07-27 10:25:44.082748,422
+John Garcia,john.garcia@example.com,Request to implement school facilities in the south district to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-08-24 10:25:44.082748,575
+John Garcia,john.garcia@example.com,Request to improve school facilities in the residential area to support local economy.,Transportation,Traffic Management,Resolved,Medium,2024-09-18 10:25:44.082748,120
+Jane Jones,jane.jones@example.com,Request to develop street lighting in the east side for better quality of life.,Infrastructure,City Planning,Rejected,Low,2024-08-03 10:25:44.082748,950
+Lisa Miller,lisa.miller@example.com,Request to maintain traffic signals in the central area to ensure public safety.,Healthcare,Health Services,Resolved,High,2024-07-15 10:25:44.082748,576
+Michael Williams,michael.williams@example.com,Request to improve school facilities in the central area to ensure public safety.,Environment,Environmental Protection,Resolved,High,2024-12-19 10:25:44.082748,460
+Jane Smith,jane.smith@example.com,Request to establish street lighting in the central area for better quality of life.,Public Safety,Emergency Services,In Progress,Low,2024-10-16 10:25:44.082748,286
+David Miller,david.miller@example.com,Request to maintain bike lanes in the suburban area for better quality of life.,Environment,Environmental Protection,Rejected,Low,2024-06-01 10:25:44.082748,922
+Jane Williams,jane.williams@example.com,Request to implement community centers in the residential area for community development.,Environment,Environmental Protection,Under Review,Low,2025-01-18 10:25:44.082748,270
+David Davis,david.davis@example.com,Request to enhance small business support in the west side for sustainable development.,Environment,Environmental Protection,Resolved,Low,2024-11-28 10:25:44.082748,897
+Lisa Smith,lisa.smith@example.com,Request to maintain healthcare access in the south district for sustainable development.,Infrastructure,City Planning,Rejected,Low,2024-10-14 10:25:44.082748,347
+David Davis,david.davis@example.com,Request to implement senior services in the downtown for future generations.,Infrastructure,City Planning,Rejected,Low,2024-06-27 10:25:44.082748,152
+Sarah Williams,sarah.williams@example.com,Request to establish sidewalk repairs in the north district to address resident concerns.,Transportation,Transportation,Resolved,Low,2024-12-16 10:25:44.082748,279
+John Smith,john.smith@example.com,Request to create sidewalk repairs in the residential area to ensure public safety.,Transportation,Transportation,Resolved,High,2024-06-10 10:25:44.082748,497
+Sarah Williams,sarah.williams@example.com,Request to expand parking facilities in the north district to meet growing demands.,Infrastructure,City Planning,Resolved,Low,2024-12-23 10:25:44.082748,773
+Michael Johnson,michael.johnson@example.com,Request to expand public transportation in the north district for community development.,Healthcare,Public Health,In Progress,Low,2024-03-10 10:25:44.082748,898
+Jane Jones,jane.jones@example.com,Request to develop water supply in the north district to improve accessibility.,Community Services,Social Services,Resolved,Medium,2024-03-07 10:25:44.082748,291
+David Davis,david.davis@example.com,Request to establish community centers in the suburban area for environmental protection.,Infrastructure,City Planning,In Progress,Low,2024-08-21 10:25:44.082748,311
+David Brown,david.brown@example.com,Request to maintain healthcare access in the west side to meet growing demands.,Education,Education,Resolved,Low,2024-07-07 10:25:44.082748,625
+Emily Miller,emily.miller@example.com,Request to expand affordable housing in the south district to support local economy.,Public Safety,Public Safety,Under Review,Low,2025-02-03 10:25:44.082748,434
+John Johnson,john.johnson@example.com,Request to renovate healthcare access in the suburban area to address resident concerns.,Public Safety,Emergency Services,Resolved,Low,2024-05-21 10:25:44.082748,822
+Lisa Jones,lisa.jones@example.com,Request to improve sidewalk repairs in the central area to support local economy.,Transportation,Transportation,In Progress,Medium,2024-11-17 10:25:44.082748,822
+Robert Johnson,robert.johnson@example.com,Request to upgrade traffic signals in the north district to ensure public safety.,Education,Education,Under Review,High,2025-01-30 10:25:44.082748,795
+Michael Brown,michael.brown@example.com,Request to upgrade school facilities in the central area for future generations.,Economic Development,Economic Development,Resolved,Medium,2024-07-15 10:25:44.082748,963
+Sarah Davis,sarah.davis@example.com,Request to upgrade traffic signals in the west side for community development.,Transportation,Transportation,Resolved,Medium,2024-06-07 10:25:44.082748,773
+Robert Miller,robert.miller@example.com,Request to create small business support in the industrial zone to support local economy.,Transportation,Transportation,Resolved,Low,2024-10-10 10:25:44.082748,766
+Michael Smith,michael.smith@example.com,Request to maintain senior services in the industrial zone for sustainable development.,Community Services,Community Development,Resolved,Low,2024-07-16 10:25:44.082748,10
+Sarah Smith,sarah.smith@example.com,Request to renovate school facilities in the central area for community development.,Environment,Environmental Protection,Resolved,Low,2024-03-03 10:25:44.082748,219
+Robert Smith,robert.smith@example.com,Request to develop public transportation in the north district for environmental protection.,Community Services,Community Development,In Progress,Low,2024-11-22 10:25:44.082748,289
+Michael Smith,michael.smith@example.com,Request to expand public safety in the north district for future generations.,Public Safety,Emergency Services,In Progress,High,2024-10-22 10:25:44.082748,635
+David Jones,david.jones@example.com,Request to establish water supply in the residential area for sustainable development.,Transportation,Transportation,Under Review,Low,2025-01-28 10:25:44.082748,429
+David Johnson,david.johnson@example.com,Request to enhance bike lanes in the west side for environmental protection.,Environment,Parks and Recreation,Resolved,Low,2024-08-15 10:25:44.082748,537
+David Johnson,david.johnson@example.com,Request to expand road maintenance in the residential area for community development.,Transportation,Traffic Management,In Progress,Low,2024-03-20 10:25:44.082748,809
+Emily Brown,emily.brown@example.com,Request to create water supply in the west side for better quality of life.,Community Services,Social Services,Resolved,Low,2024-04-30 10:25:44.082748,859
+John Brown,john.brown@example.com,Request to expand sidewalk repairs in the downtown for community development.,Public Safety,Public Safety,Resolved,Low,2024-11-04 10:25:44.082748,992
+Jane Garcia,jane.garcia@example.com,Request to establish youth programs in the west side for sustainable development.,Infrastructure,Public Works,Rejected,Low,2024-09-07 10:25:44.082748,818
+David Davis,david.davis@example.com,Request to maintain street lighting in the business district for environmental protection.,Public Safety,Public Safety,Resolved,Low,2024-05-18 10:25:44.082748,564
+Lisa Williams,lisa.williams@example.com,Request to enhance small business support in the north district for environmental protection.,Transportation,Transportation,In Progress,Low,2024-07-01 10:25:44.082748,852
+John Smith,john.smith@example.com,Request to establish public safety in the downtown for environmental protection.,Environment,Parks and Recreation,Resolved,High,2024-04-09 10:25:44.082748,273
+Michael Jones,michael.jones@example.com,Request to renovate traffic signals in the suburban area for sustainable development.,Education,Youth Services,Resolved,Low,2024-09-21 10:25:44.082748,611
+Emily Williams,emily.williams@example.com,Request to improve school facilities in the industrial zone for sustainable development.,Healthcare,Public Health,Resolved,Medium,2024-04-14 10:25:44.082748,134
+Emily Johnson,emily.johnson@example.com,Request to improve traffic signals in the business district to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-11-08 10:25:44.082748,532
+Jane Johnson,jane.johnson@example.com,Request to maintain parking facilities in the business district to address resident concerns.,Environment,Environmental Protection,In Progress,Low,2024-10-09 10:25:44.082748,933
+John Jones,john.jones@example.com,Request to implement noise pollution in the central area to improve accessibility.,Public Safety,Emergency Services,Resolved,Medium,2024-09-19 10:25:44.082748,920
+Lisa Garcia,lisa.garcia@example.com,Request to expand community centers in the east side for environmental protection.,Infrastructure,City Planning,Resolved,Low,2024-06-13 10:25:44.082748,737
+Lisa Miller,lisa.miller@example.com,Request to create air quality in the residential area for community development.,Public Safety,Public Safety,Resolved,Low,2024-11-10 10:25:44.082748,898
+Emily Brown,emily.brown@example.com,Request to enhance youth programs in the west side for environmental protection.,Healthcare,Public Health,Resolved,Low,2024-10-13 10:25:44.082748,974
+Sarah Smith,sarah.smith@example.com,Request to upgrade affordable housing in the east side to address resident concerns.,Transportation,Traffic Management,Rejected,Medium,2024-11-03 10:25:44.082748,6
+John Garcia,john.garcia@example.com,Request to enhance small business support in the business district to meet growing demands.,Healthcare,Public Health,In Progress,Low,2024-12-25 10:25:44.082748,971
+Jane Garcia,jane.garcia@example.com,Request to expand bike lanes in the industrial zone for environmental protection.,Economic Development,Business Relations,Resolved,Low,2025-01-13 10:25:44.082748,916
+Sarah Smith,sarah.smith@example.com,Request to maintain public safety in the east side for environmental protection.,Economic Development,Business Relations,Resolved,High,2024-11-04 10:25:44.082748,340
+Michael Williams,michael.williams@example.com,Request to implement small business support in the business district for community development.,Infrastructure,City Planning,In Progress,Low,2024-03-01 10:25:44.082748,110
+Robert Miller,robert.miller@example.com,Request to maintain bike lanes in the south district to meet growing demands.,Economic Development,Business Relations,Resolved,Low,2024-04-04 10:25:44.082748,13
+David Miller,david.miller@example.com,Request to create sidewalk repairs in the east side for environmental protection.,Transportation,Traffic Management,Rejected,Low,2024-07-15 10:25:44.082748,507
+David Smith,david.smith@example.com,Request to create noise pollution in the central area to support local economy.,Infrastructure,Public Works,Resolved,Low,2024-12-17 10:25:44.082748,919
+John Miller,john.miller@example.com,Request to create waste management in the north district to meet growing demands.,Environment,Environmental Protection,In Progress,Low,2024-10-10 10:25:44.082748,361
+Lisa Miller,lisa.miller@example.com,Request to expand senior services in the downtown for community development.,Public Safety,Public Safety,Resolved,Low,2024-11-10 10:25:44.082748,712
+Robert Jones,robert.jones@example.com,Request to upgrade road maintenance in the residential area to support local economy.,Infrastructure,Public Works,Resolved,Medium,2024-03-28 10:25:44.082748,372
+David Miller,david.miller@example.com,Request to upgrade air quality in the industrial zone to ensure public safety.,Public Safety,Public Safety,Resolved,High,2024-05-25 10:25:44.082748,613
+John Williams,john.williams@example.com,Request to upgrade street lighting in the east side to support local economy.,Infrastructure,Public Works,Resolved,Medium,2024-05-23 10:25:44.082748,405
+Michael Davis,michael.davis@example.com,Request to establish affordable housing in the north district to meet growing demands.,Economic Development,Business Relations,In Progress,Low,2024-08-03 10:25:44.082748,366
+Sarah Brown,sarah.brown@example.com,Request to renovate healthcare access in the south district for sustainable development.,Infrastructure,Public Works,In Progress,Low,2024-05-15 10:25:44.082748,449
+Robert Miller,robert.miller@example.com,Request to renovate water supply in the downtown for community development.,Transportation,Transportation,Resolved,Low,2024-08-22 10:25:44.082748,552
+Emily Brown,emily.brown@example.com,Request to expand healthcare access in the south district to ensure public safety.,Education,Youth Services,In Progress,High,2024-06-16 10:25:44.082748,809
+John Garcia,john.garcia@example.com,Request to improve bike lanes in the downtown for community development.,Education,Education,Resolved,Medium,2024-12-29 10:25:44.082748,617
+Robert Davis,robert.davis@example.com,Request to improve youth programs in the business district for environmental protection.,Education,Education,In Progress,Medium,2024-11-27 10:25:44.082748,805
+Robert Smith,robert.smith@example.com,Request to implement community centers in the suburban area to ensure public safety.,Public Safety,Emergency Services,In Progress,High,2025-02-03 10:25:44.082748,289
+Emily Davis,emily.davis@example.com,Request to establish affordable housing in the suburban area to support local economy.,Public Safety,Emergency Services,Rejected,Low,2024-10-03 10:25:44.082748,111
+John Davis,john.davis@example.com,Request to expand public safety in the business district to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-07-19 10:25:44.082748,554
+Michael Brown,michael.brown@example.com,Request to create water supply in the west side to address resident concerns.,Public Safety,Public Safety,Under Review,Low,2025-02-01 10:25:44.082748,440
+Jane Garcia,jane.garcia@example.com,Request to develop public safety in the downtown to support local economy.,Transportation,Traffic Management,Under Review,High,2025-02-04 10:25:44.082748,251
+Emily Smith,emily.smith@example.com,Request to improve road maintenance in the west side to address resident concerns.,Transportation,Traffic Management,In Progress,Medium,2024-04-18 10:25:44.082748,145
+Sarah Brown,sarah.brown@example.com,Request to implement community centers in the west side for environmental protection.,Education,Education,Resolved,Low,2024-10-16 10:25:44.082748,461
+David Brown,david.brown@example.com,Request to improve bike lanes in the central area for environmental protection.,Community Services,Community Development,In Progress,Medium,2024-04-28 10:25:44.082748,5
+Emily Williams,emily.williams@example.com,Request to renovate school facilities in the north district for future generations.,Infrastructure,City Planning,In Progress,Low,2024-06-26 10:25:44.082748,128
+Michael Miller,michael.miller@example.com,Request to develop public transportation in the south district for sustainable development.,Infrastructure,Public Works,In Progress,Low,2025-01-28 10:25:44.082748,520
+Lisa Brown,lisa.brown@example.com,Request to renovate waste management in the industrial zone for environmental protection.,Community Services,Community Development,In Progress,Low,2024-04-10 10:25:44.082748,548
+Lisa Smith,lisa.smith@example.com,Request to maintain school facilities in the suburban area to meet growing demands.,Infrastructure,City Planning,Resolved,Low,2024-12-04 10:25:44.082748,970
+Robert Garcia,robert.garcia@example.com,Request to implement community centers in the west side to address resident concerns.,Transportation,Transportation,Resolved,Low,2024-05-23 10:25:44.082748,451
+Robert Johnson,robert.johnson@example.com,Request to create water supply in the south district to improve accessibility.,Public Safety,Public Safety,Resolved,Medium,2024-08-28 10:25:44.082748,560
+Michael Jones,michael.jones@example.com,Request to create community centers in the business district to meet growing demands.,Infrastructure,Public Works,Resolved,Low,2024-11-18 10:25:44.082748,288
+Robert Johnson,robert.johnson@example.com,Request to upgrade street lighting in the industrial zone to address resident concerns.,Infrastructure,Public Works,Resolved,Medium,2024-12-27 10:25:44.082748,895
+Michael Smith,michael.smith@example.com,Request to renovate road maintenance in the residential area to address resident concerns.,Environment,Parks and Recreation,In Progress,Low,2024-06-07 10:25:44.082748,316
+Robert Williams,robert.williams@example.com,Request to develop youth programs in the industrial zone for future generations.,Infrastructure,Public Works,Resolved,Low,2024-02-24 10:25:44.082748,662
+Sarah Johnson,sarah.johnson@example.com,Request to develop youth programs in the central area to ensure public safety.,Public Safety,Emergency Services,Resolved,High,2024-08-26 10:25:44.082748,910
+Michael Davis,michael.davis@example.com,Request to renovate school facilities in the west side for community development.,Public Safety,Public Safety,Resolved,Low,2024-04-10 10:25:44.082748,248
+Robert Johnson,robert.johnson@example.com,Request to renovate waste management in the north district to address resident concerns.,Public Safety,Emergency Services,Resolved,Low,2024-09-19 10:25:44.082748,425
+Emily Miller,emily.miller@example.com,Request to renovate street lighting in the industrial zone to support local economy.,Economic Development,Economic Development,Resolved,Low,2024-03-26 10:25:44.082748,634
+Michael Smith,michael.smith@example.com,Request to expand affordable housing in the south district to ensure public safety.,Healthcare,Public Health,In Progress,High,2024-04-18 10:25:44.082748,639
+David Johnson,david.johnson@example.com,Request to implement public transportation in the residential area for better quality of life.,Community Services,Social Services,In Progress,Low,2024-10-15 10:25:44.082748,239
+David Davis,david.davis@example.com,Request to enhance water supply in the downtown to address resident concerns.,Community Services,Social Services,In Progress,Low,2025-01-30 10:25:44.082748,699
+David Brown,david.brown@example.com,Request to create bike lanes in the business district to improve accessibility.,Education,Youth Services,Rejected,Medium,2024-05-23 10:25:44.082748,655
+David Williams,david.williams@example.com,Request to renovate waste management in the south district for future generations.,Public Safety,Emergency Services,Resolved,Low,2024-11-29 10:25:44.082748,650
+Jane Johnson,jane.johnson@example.com,Request to improve school facilities in the east side for future generations.,Infrastructure,City Planning,Resolved,Medium,2024-12-12 10:25:44.082748,938
+Emily Smith,emily.smith@example.com,Request to implement healthcare access in the east side to ensure public safety.,Education,Youth Services,Resolved,High,2024-09-24 10:25:44.082748,760
+Robert Williams,robert.williams@example.com,Request to improve parking facilities in the residential area for community development.,Environment,Environmental Protection,Resolved,Medium,2024-12-02 10:25:44.082748,270
+Lisa Brown,lisa.brown@example.com,Request to renovate bike lanes in the north district for community development.,Education,Youth Services,In Progress,Low,2024-12-29 10:25:44.082748,295
+Jane Johnson,jane.johnson@example.com,Request to maintain public transportation in the industrial zone for sustainable development.,Infrastructure,City Planning,Under Review,Low,2025-01-31 10:25:44.082748,332
+Sarah Williams,sarah.williams@example.com,Request to establish community centers in the south district to meet growing demands.,Environment,Environmental Protection,Resolved,Low,2024-09-28 10:25:44.082748,479
+David Smith,david.smith@example.com,Request to improve sidewalk repairs in the downtown to ensure public safety.,Public Safety,Public Safety,Rejected,High,2024-11-17 10:25:44.082748,48
+Robert Garcia,robert.garcia@example.com,Request to develop affordable housing in the industrial zone for community development.,Transportation,Traffic Management,Rejected,Low,2024-07-01 10:25:44.082748,218
+Emily Miller,emily.miller@example.com,Request to maintain water supply in the business district for sustainable development.,Infrastructure,Public Works,Resolved,Low,2024-12-12 10:25:44.082748,391
+Emily Jones,emily.jones@example.com,Request to upgrade air quality in the industrial zone to meet growing demands.,Public Safety,Emergency Services,Resolved,Medium,2024-03-29 10:25:44.082748,916
+Robert Miller,robert.miller@example.com,Request to upgrade noise pollution in the central area to address resident concerns.,Infrastructure,City Planning,Resolved,Medium,2024-02-26 10:25:44.082748,369
+David Smith,david.smith@example.com,Request to enhance affordable housing in the industrial zone to address resident concerns.,Infrastructure,Public Works,In Progress,Low,2024-07-20 10:25:44.082748,652
+Michael Williams,michael.williams@example.com,Request to maintain school facilities in the east side to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-05-14 10:25:44.082748,472
+John Miller,john.miller@example.com,Request to establish air quality in the downtown for environmental protection.,Transportation,Transportation,In Progress,Low,2024-11-24 10:25:44.082748,97
+Lisa Brown,lisa.brown@example.com,Request to establish parking facilities in the central area for sustainable development.,Community Services,Social Services,In Progress,Low,2024-12-10 10:25:44.082748,286
+Emily Smith,emily.smith@example.com,Request to maintain bike lanes in the downtown for future generations.,Economic Development,Economic Development,Rejected,Low,2024-04-26 10:25:44.082748,979
+Jane Jones,jane.jones@example.com,Request to implement affordable housing in the residential area for better quality of life.,Community Services,Social Services,Rejected,Low,2024-03-02 10:25:44.082748,934
+David Smith,david.smith@example.com,Request to upgrade air quality in the north district for environmental protection.,Education,Youth Services,In Progress,Medium,2024-08-14 10:25:44.082748,750
+John Jones,john.jones@example.com,Request to implement affordable housing in the downtown to meet growing demands.,Infrastructure,City Planning,In Progress,Low,2024-05-15 10:25:44.082748,490
+David Davis,david.davis@example.com,Request to enhance healthcare access in the business district for better quality of life.,Environment,Parks and Recreation,Resolved,Low,2024-08-19 10:25:44.082748,496
+Robert Davis,robert.davis@example.com,Request to upgrade small business support in the industrial zone for community development.,Public Safety,Public Safety,In Progress,Medium,2024-03-23 10:25:44.082748,425
+Michael Williams,michael.williams@example.com,Request to maintain public safety in the residential area to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-06-28 10:25:44.082748,960
+Sarah Davis,sarah.davis@example.com,Request to expand senior services in the west side to meet growing demands.,Community Services,Social Services,Resolved,Low,2024-08-19 10:25:44.082748,852
+David Smith,david.smith@example.com,Request to maintain waste management in the downtown for future generations.,Community Services,Community Development,In Progress,Low,2025-02-02 10:25:44.082748,153
+Michael Brown,michael.brown@example.com,Request to expand parking facilities in the east side for future generations.,Public Safety,Public Safety,In Progress,Low,2024-03-25 10:25:44.082748,985
+Sarah Davis,sarah.davis@example.com,Request to maintain youth programs in the south district to improve accessibility.,Infrastructure,Public Works,In Progress,Medium,2024-10-28 10:25:44.082748,644
+Emily Johnson,emily.johnson@example.com,Request to implement school facilities in the business district to meet growing demands.,Infrastructure,Public Works,In Progress,Low,2024-05-28 10:25:44.082748,388
+Sarah Johnson,sarah.johnson@example.com,Request to improve senior services in the downtown to address resident concerns.,Infrastructure,Public Works,Resolved,Medium,2024-10-01 10:25:44.082748,226
+Sarah Garcia,sarah.garcia@example.com,Request to develop traffic signals in the east side to improve accessibility.,Public Safety,Public Safety,Resolved,Medium,2024-04-29 10:25:44.082748,310
+Michael Davis,michael.davis@example.com,Request to establish youth programs in the south district for sustainable development.,Transportation,Traffic Management,In Progress,Low,2024-12-11 10:25:44.082748,938
+Michael Williams,michael.williams@example.com,Request to develop sidewalk repairs in the residential area for sustainable development.,Infrastructure,City Planning,In Progress,Low,2024-04-05 10:25:44.082748,81
+Jane Davis,jane.davis@example.com,Request to develop public transportation in the business district to meet growing demands.,Economic Development,Economic Development,Resolved,Low,2024-06-29 10:25:44.082748,749
+Lisa Brown,lisa.brown@example.com,Request to renovate air quality in the south district for better quality of life.,Economic Development,Economic Development,Rejected,Low,2024-07-22 10:25:44.082748,442
+Robert Johnson,robert.johnson@example.com,Request to maintain sidewalk repairs in the west side for environmental protection.,Healthcare,Public Health,Resolved,Low,2024-06-29 10:25:44.082748,787
+Jane Davis,jane.davis@example.com,Request to develop noise pollution in the industrial zone to meet growing demands.,Education,Education,In Progress,Low,2024-10-12 10:25:44.082748,356
+Robert Miller,robert.miller@example.com,Request to create parking facilities in the south district for better quality of life.,Transportation,Traffic Management,Resolved,Low,2024-10-15 10:25:44.082748,357
+John Williams,john.williams@example.com,Request to renovate public safety in the east side for community development.,Healthcare,Health Services,Resolved,High,2024-02-28 10:25:44.082748,547
+Lisa Johnson,lisa.johnson@example.com,Request to upgrade sidewalk repairs in the west side for community development.,Transportation,Traffic Management,In Progress,Medium,2025-01-28 10:25:44.082748,10
+Lisa Davis,lisa.davis@example.com,Request to improve public transportation in the west side for better quality of life.,Infrastructure,Public Works,In Progress,Medium,2024-10-09 10:25:44.082748,544
+Robert Miller,robert.miller@example.com,Request to create public safety in the suburban area to support local economy.,Infrastructure,Public Works,In Progress,High,2024-02-23 10:25:44.082748,985
+Michael Davis,michael.davis@example.com,Request to develop healthcare access in the downtown for sustainable development.,Environment,Parks and Recreation,Resolved,Low,2024-05-28 10:25:44.082748,355
+Robert Garcia,robert.garcia@example.com,Request to renovate senior services in the downtown for environmental protection.,Infrastructure,Public Works,Resolved,Low,2024-07-24 10:25:44.082748,318
+Lisa Johnson,lisa.johnson@example.com,Request to improve street lighting in the central area for environmental protection.,Infrastructure,City Planning,In Progress,Medium,2025-02-02 10:25:44.082748,348
+John Miller,john.miller@example.com,Request to create parking facilities in the suburban area to improve accessibility.,Environment,Parks and Recreation,Resolved,Medium,2024-04-01 10:25:44.082748,276
+Emily Brown,emily.brown@example.com,Request to upgrade small business support in the south district to improve accessibility.,Community Services,Social Services,In Progress,Medium,2024-05-25 10:25:44.082748,777
+John Smith,john.smith@example.com,Request to maintain public safety in the business district to address resident concerns.,Infrastructure,City Planning,In Progress,High,2024-10-16 10:25:44.082748,576
+Jane Davis,jane.davis@example.com,Request to develop sidewalk repairs in the suburban area to address resident concerns.,Community Services,Social Services,In Progress,Low,2024-07-12 10:25:44.082748,563
+Robert Smith,robert.smith@example.com,Request to establish public transportation in the central area for environmental protection.,Public Safety,Emergency Services,Resolved,Low,2024-12-23 10:25:44.082748,108
+Lisa Johnson,lisa.johnson@example.com,Request to develop public safety in the suburban area for community development.,Public Safety,Emergency Services,Resolved,High,2024-07-20 10:25:44.082748,446
+Michael Garcia,michael.garcia@example.com,Request to create road maintenance in the east side for community development.,Infrastructure,Public Works,Rejected,Low,2024-07-02 10:25:44.082748,846
+Sarah Smith,sarah.smith@example.com,Request to improve traffic signals in the suburban area to support local economy.,Infrastructure,Public Works,In Progress,Medium,2024-12-23 10:25:44.082748,386
+Sarah Davis,sarah.davis@example.com,Request to create small business support in the north district for better quality of life.,Transportation,Traffic Management,Resolved,Low,2024-04-16 10:25:44.082748,458
+David Brown,david.brown@example.com,Request to establish street lighting in the industrial zone to improve accessibility.,Transportation,Traffic Management,Resolved,Medium,2024-08-31 10:25:44.082748,575
+Sarah Miller,sarah.miller@example.com,Request to implement affordable housing in the residential area to meet growing demands.,Transportation,Traffic Management,Resolved,Low,2024-08-23 10:25:44.082748,401
+Emily Jones,emily.jones@example.com,Request to enhance noise pollution in the west side for environmental protection.,Infrastructure,City Planning,In Progress,Low,2024-03-20 10:25:44.082748,100
+Jane Smith,jane.smith@example.com,Request to develop senior services in the east side to improve accessibility.,Transportation,Traffic Management,Resolved,Medium,2024-12-27 10:25:44.082748,873
+Robert Garcia,robert.garcia@example.com,Request to enhance affordable housing in the business district to address resident concerns.,Education,Education,Resolved,Low,2024-06-05 10:25:44.082748,580
+Emily Williams,emily.williams@example.com,Request to create road maintenance in the residential area to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-09-12 10:25:44.082748,36
+Sarah Jones,sarah.jones@example.com,Request to create school facilities in the north district to improve accessibility.,Education,Youth Services,Resolved,Medium,2024-09-19 10:25:44.082748,251
+John Jones,john.jones@example.com,Request to implement sidewalk repairs in the business district to meet growing demands.,Transportation,Transportation,Resolved,Low,2024-09-04 10:25:44.082748,347
+Jane Brown,jane.brown@example.com,Request to maintain school facilities in the residential area to support local economy.,Infrastructure,City Planning,Rejected,Low,2024-04-20 10:25:44.082748,18
+Lisa Miller,lisa.miller@example.com,Request to implement affordable housing in the residential area for community development.,Environment,Parks and Recreation,Resolved,Low,2024-04-07 10:25:44.082748,702
+Robert Miller,robert.miller@example.com,Request to implement school facilities in the residential area for environmental protection.,Community Services,Social Services,In Progress,Low,2025-02-01 10:25:44.082748,534
+Sarah Smith,sarah.smith@example.com,Request to renovate school facilities in the central area to address resident concerns.,Environment,Parks and Recreation,Resolved,Low,2024-10-07 10:25:44.082748,494
+Sarah Williams,sarah.williams@example.com,Request to implement water supply in the south district for environmental protection.,Education,Youth Services,Resolved,Low,2024-03-20 10:25:44.082748,971
+Sarah Williams,sarah.williams@example.com,Request to upgrade community centers in the south district for better quality of life.,Transportation,Transportation,Resolved,Medium,2024-07-13 10:25:44.082748,158
+Lisa Brown,lisa.brown@example.com,Request to improve park facilities in the downtown for sustainable development.,Healthcare,Health Services,Resolved,Medium,2024-09-03 10:25:44.082748,60
+Emily Davis,emily.davis@example.com,Request to expand park facilities in the residential area for community development.,Infrastructure,Public Works,Under Review,Low,2025-02-01 10:25:44.082748,733
+David Miller,david.miller@example.com,Request to upgrade air quality in the suburban area for community development.,Economic Development,Business Relations,Resolved,Medium,2024-11-12 10:25:44.082748,101
+Emily Brown,emily.brown@example.com,Request to upgrade bike lanes in the industrial zone for future generations.,Transportation,Traffic Management,Resolved,Medium,2024-11-04 10:25:44.082748,626
+Jane Brown,jane.brown@example.com,Request to implement street lighting in the east side for community development.,Community Services,Social Services,In Progress,Low,2024-12-16 10:25:44.082748,117
+David Miller,david.miller@example.com,Request to upgrade small business support in the east side for better quality of life.,Infrastructure,City Planning,Resolved,Medium,2024-11-02 10:25:44.082748,662
+Lisa Miller,lisa.miller@example.com,Request to implement bike lanes in the downtown for future generations.,Public Safety,Public Safety,Resolved,Low,2024-10-16 10:25:44.082748,203
+David Williams,david.williams@example.com,Request to develop youth programs in the north district for sustainable development.,Public Safety,Public Safety,Resolved,Low,2024-09-11 10:25:44.082748,305
+Michael Davis,michael.davis@example.com,Request to develop noise pollution in the south district to support local economy.,Transportation,Transportation,Resolved,Low,2024-09-23 10:25:44.082748,188
+David Davis,david.davis@example.com,Request to maintain youth programs in the central area to improve accessibility.,Infrastructure,City Planning,Resolved,Medium,2024-04-24 10:25:44.082748,871
+David Miller,david.miller@example.com,Request to establish school facilities in the industrial zone to meet growing demands.,Healthcare,Public Health,Rejected,Low,2024-12-24 10:25:44.082748,248
+Sarah Jones,sarah.jones@example.com,Request to maintain senior services in the suburban area for community development.,Transportation,Transportation,In Progress,Low,2025-02-14 10:25:44.082748,54
+David Miller,david.miller@example.com,Request to develop healthcare access in the residential area to support local economy.,Transportation,Transportation,In Progress,Low,2025-02-13 10:25:44.082748,542
+Robert Johnson,robert.johnson@example.com,Request to expand waste management in the residential area for environmental protection.,Community Services,Community Development,Resolved,Low,2024-04-27 10:25:44.082748,850
+Emily Garcia,emily.garcia@example.com,Request to improve affordable housing in the central area to address resident concerns.,Transportation,Transportation,Resolved,Medium,2024-10-17 10:25:44.082748,525
+Sarah Miller,sarah.miller@example.com,Request to maintain street lighting in the suburban area for future generations.,Infrastructure,City Planning,Resolved,Low,2024-11-19 10:25:44.082748,451
+Michael Miller,michael.miller@example.com,Request to improve healthcare access in the residential area to improve accessibility.,Environment,Parks and Recreation,In Progress,Medium,2024-08-08 10:25:44.082748,70
+Emily Johnson,emily.johnson@example.com,Request to upgrade affordable housing in the downtown for sustainable development.,Environment,Parks and Recreation,Rejected,Medium,2024-11-19 10:25:44.082748,514
+John Garcia,john.garcia@example.com,Request to develop air quality in the downtown for community development.,Public Safety,Public Safety,Resolved,Low,2024-03-17 10:25:44.082748,320
+John Jones,john.jones@example.com,Request to develop water supply in the north district for sustainable development.,Public Safety,Emergency Services,Resolved,Low,2024-04-30 10:25:44.082748,932
+Emily Johnson,emily.johnson@example.com,Request to improve sidewalk repairs in the residential area to improve accessibility.,Transportation,Traffic Management,Resolved,Medium,2024-06-06 10:25:44.082748,448
+John Jones,john.jones@example.com,Request to upgrade waste management in the suburban area to support local economy.,Public Safety,Emergency Services,Resolved,Medium,2024-03-27 10:25:44.082748,545
+Robert Smith,robert.smith@example.com,Request to establish water supply in the downtown to address resident concerns.,Education,Education,Resolved,Low,2024-06-30 10:25:44.082748,433
+Lisa Miller,lisa.miller@example.com,Request to enhance bike lanes in the residential area to address resident concerns.,Infrastructure,City Planning,In Progress,Low,2024-06-20 10:25:44.082748,787
+Robert Davis,robert.davis@example.com,Request to maintain traffic signals in the west side for sustainable development.,Community Services,Community Development,Resolved,Low,2024-12-12 10:25:44.082748,57
+Jane Miller,jane.miller@example.com,Request to improve noise pollution in the west side to improve accessibility.,Community Services,Social Services,Under Review,Medium,2025-02-15 10:25:44.082748,307
+David Garcia,david.garcia@example.com,Request to expand street lighting in the west side for environmental protection.,Transportation,Transportation,In Progress,Low,2024-05-01 10:25:44.082748,337
+John Williams,john.williams@example.com,Request to establish sidewalk repairs in the business district to address resident concerns.,Community Services,Social Services,Resolved,Low,2024-02-28 10:25:44.082748,228
+Michael Williams,michael.williams@example.com,Request to renovate waste management in the west side to support local economy.,Transportation,Traffic Management,Resolved,Low,2024-12-22 10:25:44.082748,824
+John Williams,john.williams@example.com,Request to enhance affordable housing in the west side for sustainable development.,Education,Education,Resolved,Low,2025-01-16 10:25:44.082748,382
+John Brown,john.brown@example.com,Request to upgrade noise pollution in the industrial zone to ensure public safety.,Transportation,Transportation,Resolved,High,2024-12-18 10:25:44.082748,876
+John Brown,john.brown@example.com,Request to maintain senior services in the residential area for environmental protection.,Environment,Environmental Protection,Resolved,Low,2024-02-24 10:25:44.082748,661
+Michael Johnson,michael.johnson@example.com,Request to upgrade senior services in the industrial zone for sustainable development.,Economic Development,Business Relations,Resolved,Medium,2024-12-15 10:25:44.082748,646
+David Miller,david.miller@example.com,Request to maintain public safety in the east side to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-12-27 10:25:44.082748,993
+Sarah Miller,sarah.miller@example.com,Request to develop community centers in the south district to address resident concerns.,Environment,Environmental Protection,In Progress,Low,2024-07-28 10:25:44.082748,978
+John Williams,john.williams@example.com,Request to develop bike lanes in the downtown to address resident concerns.,Healthcare,Public Health,Resolved,Low,2024-11-12 10:25:44.082748,547
+Emily Smith,emily.smith@example.com,Request to improve air quality in the business district to address resident concerns.,Economic Development,Economic Development,Resolved,Medium,2024-07-15 10:25:44.082748,85
+Emily Brown,emily.brown@example.com,Request to improve public safety in the east side for better quality of life.,Infrastructure,Public Works,Resolved,High,2024-09-21 10:25:44.082748,406
+Sarah Jones,sarah.jones@example.com,Request to renovate parking facilities in the residential area to support local economy.,Infrastructure,Public Works,Resolved,Low,2024-08-30 10:25:44.082748,568
+Jane Johnson,jane.johnson@example.com,Request to enhance healthcare access in the north district for community development.,Environment,Environmental Protection,In Progress,Low,2024-09-15 10:25:44.082748,582
+David Jones,david.jones@example.com,Request to establish park facilities in the residential area to address resident concerns.,Infrastructure,City Planning,In Progress,Low,2024-10-31 10:25:44.082748,476
+Sarah Jones,sarah.jones@example.com,Request to renovate air quality in the central area for future generations.,Transportation,Traffic Management,Resolved,Low,2024-09-20 10:25:44.082748,206
+Michael Brown,michael.brown@example.com,Request to implement bike lanes in the west side to meet growing demands.,Community Services,Social Services,In Progress,Low,2024-04-07 10:25:44.082748,982
+Lisa Smith,lisa.smith@example.com,Request to improve small business support in the north district to ensure public safety.,Public Safety,Emergency Services,In Progress,High,2024-11-13 10:25:44.082748,623
+Lisa Brown,lisa.brown@example.com,Request to renovate sidewalk repairs in the east side for environmental protection.,Environment,Parks and Recreation,Resolved,Low,2024-08-11 10:25:44.082748,828
+Emily Williams,emily.williams@example.com,Request to develop healthcare access in the residential area to improve accessibility.,Education,Education,Resolved,Medium,2024-08-15 10:25:44.082748,522
+Sarah Brown,sarah.brown@example.com,Request to establish small business support in the suburban area for better quality of life.,Education,Education,Resolved,Low,2024-09-21 10:25:44.082748,989
+Jane Garcia,jane.garcia@example.com,Request to renovate bike lanes in the suburban area to ensure public safety.,Environment,Parks and Recreation,Resolved,High,2024-03-31 10:25:44.082748,819
+Robert Jones,robert.jones@example.com,Request to develop public safety in the industrial zone for community development.,Environment,Environmental Protection,Resolved,High,2024-12-11 10:25:44.082748,847
+John Williams,john.williams@example.com,Request to improve senior services in the central area to improve accessibility.,Environment,Environmental Protection,Resolved,Medium,2024-11-12 10:25:44.082748,8
+Lisa Smith,lisa.smith@example.com,Request to establish water supply in the business district for environmental protection.,Infrastructure,Public Works,Resolved,Low,2024-11-14 10:25:44.082748,275
+Robert Garcia,robert.garcia@example.com,Request to create bike lanes in the residential area for future generations.,Infrastructure,Public Works,Resolved,Low,2024-11-18 10:25:44.082748,98
+David Johnson,david.johnson@example.com,Request to develop healthcare access in the business district to ensure public safety.,Transportation,Traffic Management,Resolved,High,2024-03-21 10:25:44.082748,584
+David Miller,david.miller@example.com,Request to implement road maintenance in the central area for better quality of life.,Environment,Parks and Recreation,In Progress,Low,2024-03-01 10:25:44.082748,405
+Sarah Miller,sarah.miller@example.com,Request to upgrade park facilities in the downtown to support local economy.,Education,Education,In Progress,Medium,2024-06-07 10:25:44.082748,182
+John Miller,john.miller@example.com,Request to improve community centers in the west side for environmental protection.,Education,Education,In Progress,Medium,2024-06-20 10:25:44.082748,285
+Robert Miller,robert.miller@example.com,Request to renovate road maintenance in the west side for environmental protection.,Infrastructure,City Planning,Resolved,Low,2024-08-22 10:25:44.082748,555
+David Miller,david.miller@example.com,Request to renovate school facilities in the south district for future generations.,Public Safety,Public Safety,In Progress,Low,2024-10-06 10:25:44.082748,228
+Michael Williams,michael.williams@example.com,Request to improve noise pollution in the central area to address resident concerns.,Healthcare,Public Health,Resolved,Medium,2024-04-18 10:25:44.082748,345
+Michael Jones,michael.jones@example.com,Request to improve park facilities in the east side to address resident concerns.,Community Services,Social Services,Rejected,Medium,2024-07-29 10:25:44.082748,929
+Lisa Miller,lisa.miller@example.com,Request to expand public safety in the residential area to address resident concerns.,Transportation,Traffic Management,In Progress,High,2024-04-16 10:25:44.082748,96
+Robert Brown,robert.brown@example.com,Request to expand healthcare access in the suburban area for future generations.,Transportation,Transportation,Resolved,Low,2024-12-08 10:25:44.082748,609
+Robert Johnson,robert.johnson@example.com,Request to improve traffic signals in the suburban area for community development.,Education,Youth Services,Resolved,Medium,2024-12-14 10:25:44.082748,354
+Emily Miller,emily.miller@example.com,Request to establish street lighting in the residential area to ensure public safety.,Transportation,Traffic Management,Resolved,High,2024-06-12 10:25:44.082748,301
+Michael Jones,michael.jones@example.com,Request to establish waste management in the business district for future generations.,Infrastructure,Public Works,In Progress,Low,2024-08-11 10:25:44.082748,540
+Jane Smith,jane.smith@example.com,Request to expand street lighting in the downtown to address resident concerns.,Public Safety,Emergency Services,Resolved,Low,2024-12-14 10:25:44.082748,893
+Jane Jones,jane.jones@example.com,Request to develop parking facilities in the business district to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-09-13 10:25:44.082748,548
+Jane Johnson,jane.johnson@example.com,Request to create senior services in the business district to support local economy.,Public Safety,Emergency Services,Resolved,Low,2024-02-22 10:25:44.082748,104
+Jane Johnson,jane.johnson@example.com,Request to maintain public safety in the west side to ensure public safety.,Healthcare,Health Services,Under Review,High,2025-02-06 10:25:44.082748,955
+Sarah Davis,sarah.davis@example.com,Request to implement waste management in the north district for better quality of life.,Environment,Environmental Protection,Resolved,Low,2024-11-29 10:25:44.082748,824
+Robert Williams,robert.williams@example.com,Request to develop small business support in the south district for community development.,Community Services,Social Services,In Progress,Low,2024-03-06 10:25:44.082748,184
+Sarah Williams,sarah.williams@example.com,Request to enhance traffic signals in the east side to ensure public safety.,Education,Education,In Progress,High,2024-07-04 10:25:44.082748,286
+Robert Davis,robert.davis@example.com,Request to improve street lighting in the south district for better quality of life.,Infrastructure,Public Works,Resolved,Medium,2024-06-11 10:25:44.082748,299
+Lisa Williams,lisa.williams@example.com,Request to create bike lanes in the south district for community development.,Infrastructure,Public Works,Resolved,Low,2024-04-11 10:25:44.082748,131
+Emily Miller,emily.miller@example.com,Request to upgrade noise pollution in the east side to support local economy.,Environment,Environmental Protection,Resolved,Medium,2024-06-30 10:25:44.082748,319
+Sarah Smith,sarah.smith@example.com,Request to create healthcare access in the central area for future generations.,Infrastructure,Public Works,Under Review,Low,2025-02-03 10:25:44.082748,490
+Emily Brown,emily.brown@example.com,Request to expand small business support in the downtown for community development.,Transportation,Transportation,Resolved,Low,2024-08-06 10:25:44.082748,705
+Lisa Jones,lisa.jones@example.com,Request to expand senior services in the downtown to ensure public safety.,Education,Education,In Progress,High,2024-03-17 10:25:44.082748,456
+David Williams,david.williams@example.com,Request to develop affordable housing in the south district to ensure public safety.,Environment,Environmental Protection,In Progress,High,2024-10-18 10:25:44.082748,666
+Lisa Garcia,lisa.garcia@example.com,Request to develop bike lanes in the industrial zone to meet growing demands.,Community Services,Social Services,Resolved,Low,2024-06-28 10:25:44.082748,711
+Michael Brown,michael.brown@example.com,Request to establish sidewalk repairs in the central area to improve accessibility.,Education,Education,In Progress,Medium,2024-09-05 10:25:44.082748,858
+Robert Garcia,robert.garcia@example.com,Request to implement noise pollution in the west side to improve accessibility.,Infrastructure,City Planning,Rejected,Medium,2024-09-23 10:25:44.082748,143
+Michael Brown,michael.brown@example.com,Request to develop affordable housing in the north district to meet growing demands.,Public Safety,Public Safety,In Progress,Low,2024-08-09 10:25:44.082748,279
+Robert Miller,robert.miller@example.com,Request to renovate sidewalk repairs in the east side to address resident concerns.,Healthcare,Public Health,Resolved,Low,2024-04-15 10:25:44.082748,394
+Sarah Miller,sarah.miller@example.com,Request to expand senior services in the east side to address resident concerns.,Infrastructure,City Planning,In Progress,Low,2024-06-22 10:25:44.082748,759
+John Smith,john.smith@example.com,Request to implement road maintenance in the east side for future generations.,Education,Education,Resolved,Low,2024-12-07 10:25:44.082748,230
+Emily Garcia,emily.garcia@example.com,Request to create street lighting in the south district to support local economy.,Infrastructure,Public Works,In Progress,Low,2025-01-09 10:25:44.082748,624
+Sarah Williams,sarah.williams@example.com,Request to improve small business support in the north district to ensure public safety.,Transportation,Traffic Management,In Progress,High,2024-12-02 10:25:44.082748,955
+John Johnson,john.johnson@example.com,Request to create small business support in the north district to address resident concerns.,Transportation,Transportation,In Progress,Low,2024-12-08 10:25:44.082748,815
+David Johnson,david.johnson@example.com,Request to renovate park facilities in the downtown for future generations.,Infrastructure,Public Works,In Progress,Low,2024-06-15 10:25:44.082748,140
+Emily Garcia,emily.garcia@example.com,Request to establish air quality in the industrial zone for environmental protection.,Environment,Parks and Recreation,Resolved,Low,2024-09-09 10:25:44.082748,422
+Emily Brown,emily.brown@example.com,Request to maintain healthcare access in the south district for community development.,Economic Development,Business Relations,In Progress,Low,2024-12-17 10:25:44.082748,182
+Emily Miller,emily.miller@example.com,Request to maintain healthcare access in the east side for environmental protection.,Economic Development,Business Relations,Resolved,Low,2024-05-31 10:25:44.082748,932
+Sarah Miller,sarah.miller@example.com,Request to implement waste management in the north district to meet growing demands.,Education,Education,Resolved,Low,2024-04-08 10:25:44.082748,272
+Sarah Garcia,sarah.garcia@example.com,Request to expand school facilities in the south district to meet growing demands.,Infrastructure,City Planning,Resolved,Low,2024-06-15 10:25:44.082748,248
+Michael Garcia,michael.garcia@example.com,Request to expand sidewalk repairs in the north district to support local economy.,Healthcare,Health Services,Resolved,Low,2024-06-05 10:25:44.082748,872
+Emily Smith,emily.smith@example.com,Request to expand community centers in the central area to support local economy.,Environment,Environmental Protection,In Progress,Low,2025-01-15 10:25:44.082748,188
+Michael Jones,michael.jones@example.com,Request to renovate waste management in the downtown for better quality of life.,Infrastructure,Public Works,Resolved,Low,2024-08-01 10:25:44.082748,209
+David Davis,david.davis@example.com,Request to develop traffic signals in the industrial zone for future generations.,Environment,Parks and Recreation,Resolved,Low,2024-08-29 10:25:44.082748,585
+Jane Davis,jane.davis@example.com,Request to maintain water supply in the central area to support local economy.,Environment,Environmental Protection,Resolved,Low,2024-04-06 10:25:44.082748,316
+David Johnson,david.johnson@example.com,Request to implement street lighting in the central area to ensure public safety.,Community Services,Community Development,In Progress,High,2024-04-24 10:25:44.082748,456
+Lisa Jones,lisa.jones@example.com,Request to renovate affordable housing in the east side to support local economy.,Environment,Environmental Protection,Resolved,Low,2024-11-13 10:25:44.082748,93
+John Jones,john.jones@example.com,Request to create public transportation in the west side to ensure public safety.,Infrastructure,City Planning,Resolved,High,2024-10-21 10:25:44.082748,284
+Emily Smith,emily.smith@example.com,Request to create public safety in the south district for sustainable development.,Healthcare,Health Services,Resolved,High,2024-03-29 10:25:44.082748,568
+Robert Miller,robert.miller@example.com,Request to develop school facilities in the suburban area for future generations.,Environment,Environmental Protection,Resolved,Low,2024-07-20 10:25:44.082748,170
+Lisa Smith,lisa.smith@example.com,Request to create public transportation in the residential area for environmental protection.,Economic Development,Business Relations,In Progress,Low,2024-06-02 10:25:44.082748,666
+David Smith,david.smith@example.com,Request to develop traffic signals in the central area to address resident concerns.,Infrastructure,City Planning,In Progress,Low,2024-04-02 10:25:44.082748,147
+John Jones,john.jones@example.com,Request to expand public safety in the business district to address resident concerns.,Transportation,Traffic Management,Under Review,High,2025-02-14 10:25:44.082748,133
+Sarah Smith,sarah.smith@example.com,Request to create public safety in the west side to meet growing demands.,Transportation,Traffic Management,Resolved,High,2024-11-09 10:25:44.082748,413
+John Garcia,john.garcia@example.com,Request to renovate youth programs in the residential area to support local economy.,Healthcare,Health Services,Rejected,Low,2024-05-08 10:25:44.082748,615
+Lisa Miller,lisa.miller@example.com,Request to renovate healthcare access in the west side for future generations.,Environment,Environmental Protection,In Progress,Low,2024-05-08 10:25:44.082748,63
+Lisa Miller,lisa.miller@example.com,Request to renovate park facilities in the business district for community development.,Healthcare,Public Health,Resolved,Low,2024-07-18 10:25:44.082748,119
+Lisa Williams,lisa.williams@example.com,Request to enhance traffic signals in the industrial zone for future generations.,Infrastructure,Public Works,Resolved,Low,2024-03-21 10:25:44.082748,584
+John Smith,john.smith@example.com,Request to maintain park facilities in the downtown to improve accessibility.,Infrastructure,Public Works,Rejected,Medium,2024-02-18 10:25:44.082748,557
+John Garcia,john.garcia@example.com,Request to renovate traffic signals in the west side to address resident concerns.,Community Services,Social Services,Resolved,Low,2024-10-13 10:25:44.082748,424
+Jane Miller,jane.miller@example.com,Request to maintain senior services in the business district to meet growing demands.,Education,Youth Services,Resolved,Low,2024-08-10 10:25:44.082748,195
+Jane Davis,jane.davis@example.com,Request to establish bike lanes in the north district for future generations.,Environment,Parks and Recreation,Resolved,Low,2024-11-25 10:25:44.082748,609
+Jane Garcia,jane.garcia@example.com,Request to enhance youth programs in the downtown to meet growing demands.,Transportation,Traffic Management,Resolved,Low,2024-11-07 10:25:44.082748,158
+Jane Smith,jane.smith@example.com,Request to maintain air quality in the central area for better quality of life.,Environment,Environmental Protection,In Progress,Low,2024-11-13 10:25:44.082748,422
+Lisa Smith,lisa.smith@example.com,Request to enhance healthcare access in the residential area to improve accessibility.,Healthcare,Health Services,In Progress,Medium,2024-06-27 10:25:44.082748,870
+Jane Williams,jane.williams@example.com,Request to maintain school facilities in the west side to address resident concerns.,Infrastructure,City Planning,Resolved,Low,2024-03-03 10:25:44.082748,302
+Jane Williams,jane.williams@example.com,Request to expand public transportation in the central area to improve accessibility.,Public Safety,Public Safety,Resolved,Medium,2024-07-13 10:25:44.082748,671
+Robert Smith,robert.smith@example.com,Request to renovate youth programs in the central area to meet growing demands.,Community Services,Community Development,In Progress,Low,2024-05-31 10:25:44.082748,296
+David Brown,david.brown@example.com,Request to establish parking facilities in the south district for community development.,Education,Youth Services,Resolved,Low,2024-04-09 10:25:44.082748,797
+David Miller,david.miller@example.com,Request to upgrade noise pollution in the south district for community development.,Healthcare,Health Services,In Progress,Medium,2024-09-04 10:25:44.082748,439
+Robert Williams,robert.williams@example.com,Request to upgrade small business support in the residential area to ensure public safety.,Infrastructure,City Planning,In Progress,High,2025-01-09 10:25:44.082748,223
+Robert Smith,robert.smith@example.com,Request to develop street lighting in the south district to ensure public safety.,Public Safety,Public Safety,In Progress,High,2024-06-14 10:25:44.082748,966
+John Smith,john.smith@example.com,Request to establish school facilities in the north district to ensure public safety.,Transportation,Transportation,In Progress,High,2024-08-03 10:25:44.082748,60
+Lisa Smith,lisa.smith@example.com,Request to renovate senior services in the west side for community development.,Healthcare,Public Health,Resolved,Low,2024-07-29 10:25:44.082748,708
+Sarah Jones,sarah.jones@example.com,Request to upgrade parking facilities in the suburban area to support local economy.,Infrastructure,Public Works,In Progress,Medium,2024-05-16 10:25:44.082748,287
+Sarah Miller,sarah.miller@example.com,Request to develop noise pollution in the east side for future generations.,Public Safety,Emergency Services,Resolved,Low,2024-05-03 10:25:44.082748,825
+Robert Smith,robert.smith@example.com,Request to establish public transportation in the east side for future generations.,Transportation,Transportation,Resolved,Low,2024-08-09 10:25:44.082748,39
+David Garcia,david.garcia@example.com,Request to upgrade sidewalk repairs in the residential area to ensure public safety.,Infrastructure,Public Works,Rejected,High,2024-09-23 10:25:44.082748,528
+Sarah Jones,sarah.jones@example.com,Request to renovate senior services in the east side to address resident concerns.,Infrastructure,Public Works,Resolved,Low,2024-08-27 10:25:44.082748,365
+Emily Brown,emily.brown@example.com,Request to implement school facilities in the downtown to support local economy.,Healthcare,Health Services,Resolved,Low,2024-09-02 10:25:44.082748,500
+Emily Williams,emily.williams@example.com,Request to upgrade senior services in the industrial zone to ensure public safety.,Economic Development,Economic Development,Under Review,High,2025-02-01 10:25:44.082748,484
+Emily Williams,emily.williams@example.com,Request to maintain public safety in the east side to support local economy.,Infrastructure,Public Works,Resolved,High,2025-01-15 10:25:44.082748,793
+Michael Williams,michael.williams@example.com,Request to improve road maintenance in the north district to support local economy.,Transportation,Traffic Management,Resolved,Medium,2024-10-10 10:25:44.082748,187
+John Johnson,john.johnson@example.com,Request to implement senior services in the south district for sustainable development.,Community Services,Community Development,Resolved,Low,2024-12-24 10:25:44.082748,785
+John Miller,john.miller@example.com,Request to renovate community centers in the industrial zone for future generations.,Community Services,Social Services,Resolved,Low,2024-10-22 10:25:44.082748,306
+Emily Williams,emily.williams@example.com,Request to expand road maintenance in the residential area to improve accessibility.,Public Safety,Emergency Services,In Progress,Medium,2024-05-24 10:25:44.082748,769
+Sarah Garcia,sarah.garcia@example.com,Request to upgrade bike lanes in the west side to meet growing demands.,Economic Development,Business Relations,Resolved,Medium,2024-10-30 10:25:44.082748,276
+John Miller,john.miller@example.com,Request to implement air quality in the north district for future generations.,Environment,Environmental Protection,Resolved,Low,2024-08-13 10:25:44.082748,38
+Lisa Brown,lisa.brown@example.com,Request to improve water supply in the central area for community development.,Economic Development,Economic Development,Resolved,Medium,2024-08-16 10:25:44.082748,14
+David Garcia,david.garcia@example.com,Request to create waste management in the business district for community development.,Infrastructure,Public Works,Resolved,Low,2024-03-18 10:25:44.082748,496
+Robert Smith,robert.smith@example.com,Request to develop water supply in the north district to address resident concerns.,Public Safety,Public Safety,In Progress,Low,2024-03-16 10:25:44.082748,199
+Sarah Davis,sarah.davis@example.com,Request to renovate small business support in the business district for future generations.,Economic Development,Economic Development,In Progress,Low,2024-12-07 10:25:44.082748,140
+David Miller,david.miller@example.com,Request to implement road maintenance in the residential area for sustainable development.,Healthcare,Health Services,Resolved,Low,2024-07-05 10:25:44.082748,598
+Michael Jones,michael.jones@example.com,Request to improve street lighting in the industrial zone to ensure public safety.,Community Services,Community Development,In Progress,High,2024-12-20 10:25:44.082748,330
+Lisa Jones,lisa.jones@example.com,Request to implement water supply in the industrial zone to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-04-28 10:25:44.082748,296
+Emily Johnson,emily.johnson@example.com,Request to enhance community centers in the industrial zone for environmental protection.,Education,Education,Resolved,Low,2024-09-07 10:25:44.082748,812
+Michael Smith,michael.smith@example.com,Request to establish traffic signals in the south district to ensure public safety.,Community Services,Social Services,Resolved,High,2024-12-29 10:25:44.082748,654
+John Brown,john.brown@example.com,Request to implement street lighting in the west side to support local economy.,Education,Education,Rejected,Low,2024-09-14 10:25:44.082748,623
+David Miller,david.miller@example.com,Request to establish youth programs in the downtown to ensure public safety.,Environment,Parks and Recreation,In Progress,High,2024-12-10 10:25:44.082748,126
+Michael Jones,michael.jones@example.com,Request to renovate traffic signals in the suburban area for better quality of life.,Environment,Environmental Protection,Resolved,Low,2024-04-30 10:25:44.082748,241
+Sarah Garcia,sarah.garcia@example.com,Request to upgrade traffic signals in the suburban area to ensure public safety.,Transportation,Traffic Management,In Progress,High,2024-12-23 10:25:44.082748,641
+Robert Davis,robert.davis@example.com,Request to create small business support in the central area to improve accessibility.,Public Safety,Public Safety,Resolved,Medium,2024-11-02 10:25:44.082748,29
+Sarah Johnson,sarah.johnson@example.com,Request to improve street lighting in the north district to address resident concerns.,Transportation,Traffic Management,In Progress,Medium,2024-03-07 10:25:44.082748,430
+Sarah Garcia,sarah.garcia@example.com,Request to expand senior services in the central area for community development.,Infrastructure,City Planning,Under Review,Low,2025-01-29 10:25:44.082748,393
+Lisa Jones,lisa.jones@example.com,Request to create street lighting in the central area to address resident concerns.,Transportation,Transportation,In Progress,Low,2024-05-24 10:25:44.082748,478
+Michael Brown,michael.brown@example.com,Request to upgrade sidewalk repairs in the business district to support local economy.,Transportation,Traffic Management,Resolved,Medium,2024-04-02 10:25:44.082748,197
+John Garcia,john.garcia@example.com,Request to improve affordable housing in the residential area for community development.,Education,Education,Under Review,Medium,2025-01-31 10:25:44.082748,889
+Robert Jones,robert.jones@example.com,Request to improve air quality in the south district for sustainable development.,Economic Development,Business Relations,Resolved,Medium,2024-04-26 10:25:44.082748,453
+Sarah Miller,sarah.miller@example.com,Request to expand community centers in the downtown to support local economy.,Infrastructure,Public Works,Resolved,Low,2025-01-08 10:25:44.082748,857
+Michael Garcia,michael.garcia@example.com,Request to create park facilities in the industrial zone to address resident concerns.,Community Services,Community Development,Resolved,Low,2024-03-28 10:25:44.082748,487
+Michael Brown,michael.brown@example.com,Request to establish healthcare access in the suburban area for community development.,Environment,Environmental Protection,Resolved,Low,2024-10-21 10:25:44.082748,631
+Jane Garcia,jane.garcia@example.com,Request to expand youth programs in the south district for environmental protection.,Infrastructure,City Planning,Rejected,Low,2024-06-23 10:25:44.082748,935
+David Johnson,david.johnson@example.com,Request to upgrade street lighting in the south district to improve accessibility.,Transportation,Traffic Management,In Progress,Medium,2024-12-05 10:25:44.082748,635
+Robert Williams,robert.williams@example.com,Request to improve public transportation in the central area for sustainable development.,Public Safety,Public Safety,In Progress,Medium,2024-07-31 10:25:44.082748,879
+Emily Garcia,emily.garcia@example.com,Request to improve youth programs in the suburban area to improve accessibility.,Infrastructure,Public Works,Under Review,Medium,2025-02-14 10:25:44.082748,777
+Jane Smith,jane.smith@example.com,Request to develop senior services in the central area to ensure public safety.,Environment,Parks and Recreation,Resolved,High,2024-04-19 10:25:44.082748,58
+David Brown,david.brown@example.com,Request to upgrade parking facilities in the north district to meet growing demands.,Infrastructure,Public Works,Rejected,Medium,2024-03-13 10:25:44.082748,331
+Sarah Garcia,sarah.garcia@example.com,Request to expand small business support in the suburban area to ensure public safety.,Public Safety,Emergency Services,Rejected,High,2024-06-29 10:25:44.082748,743
+Robert Miller,robert.miller@example.com,Request to establish traffic signals in the north district to improve accessibility.,Economic Development,Economic Development,Under Review,Medium,2025-01-22 10:25:44.082748,315
+David Davis,david.davis@example.com,Request to create public safety in the residential area for future generations.,Transportation,Transportation,In Progress,High,2024-08-01 10:25:44.082748,674
+Michael Brown,michael.brown@example.com,Request to develop street lighting in the business district to meet growing demands.,Public Safety,Emergency Services,Rejected,Low,2024-07-05 10:25:44.082748,273
+Lisa Garcia,lisa.garcia@example.com,Request to expand youth programs in the east side to ensure public safety.,Healthcare,Health Services,In Progress,High,2024-08-26 10:25:44.082748,915
+John Garcia,john.garcia@example.com,Request to enhance school facilities in the south district for community development.,Public Safety,Public Safety,Under Review,Low,2025-01-17 10:25:44.082748,629
+Michael Brown,michael.brown@example.com,Request to develop water supply in the business district to meet growing demands.,Infrastructure,Public Works,Resolved,Low,2024-03-17 10:25:44.082748,628
+Robert Williams,robert.williams@example.com,Request to improve parking facilities in the east side for sustainable development.,Infrastructure,City Planning,In Progress,Medium,2024-07-26 10:25:44.082748,496
+Lisa Davis,lisa.davis@example.com,Request to establish senior services in the south district to support local economy.,Infrastructure,Public Works,In Progress,Low,2025-01-17 10:25:44.082748,83
+Emily Jones,emily.jones@example.com,Request to develop youth programs in the downtown for future generations.,Public Safety,Public Safety,In Progress,Low,2024-05-04 10:25:44.082748,821
+John Davis,john.davis@example.com,Request to enhance parking facilities in the south district for community development.,Environment,Parks and Recreation,In Progress,Low,2024-07-24 10:25:44.082748,711
+John Jones,john.jones@example.com,Request to create park facilities in the downtown to address resident concerns.,Transportation,Traffic Management,In Progress,Low,2024-12-09 10:25:44.082748,73
+Emily Garcia,emily.garcia@example.com,Request to implement affordable housing in the downtown to address resident concerns.,Environment,Parks and Recreation,Resolved,Low,2024-05-23 10:25:44.082748,999
+Michael Garcia,michael.garcia@example.com,Request to implement affordable housing in the residential area to address resident concerns.,Economic Development,Economic Development,Resolved,Low,2024-07-14 10:25:44.082748,968
+Lisa Johnson,lisa.johnson@example.com,Request to upgrade public transportation in the industrial zone for future generations.,Healthcare,Health Services,Resolved,Medium,2024-02-24 10:25:44.082748,552
+Lisa Miller,lisa.miller@example.com,Request to enhance waste management in the residential area to meet growing demands.,Community Services,Community Development,Resolved,Low,2024-07-07 10:25:44.082748,11
+David Miller,david.miller@example.com,Request to establish sidewalk repairs in the residential area to ensure public safety.,Transportation,Traffic Management,Resolved,High,2024-05-12 10:25:44.082748,206
+Michael Smith,michael.smith@example.com,Request to maintain road maintenance in the industrial zone to improve accessibility.,Infrastructure,Public Works,In Progress,Medium,2024-07-20 10:25:44.082748,134
+John Davis,john.davis@example.com,Request to upgrade senior services in the east side to improve accessibility.,Infrastructure,Public Works,In Progress,Medium,2024-06-11 10:25:44.082748,93
+Michael Williams,michael.williams@example.com,Request to develop senior services in the downtown to address resident concerns.,Environment,Environmental Protection,Resolved,Low,2024-11-14 10:25:44.082748,359
+John Brown,john.brown@example.com,Request to enhance youth programs in the business district to ensure public safety.,Transportation,Transportation,In Progress,High,2024-07-04 10:25:44.082748,836
+John Williams,john.williams@example.com,Request to expand small business support in the residential area for sustainable development.,Infrastructure,City Planning,In Progress,Low,2024-11-11 10:25:44.082748,742
+Emily Garcia,emily.garcia@example.com,Request to create affordable housing in the south district for better quality of life.,Infrastructure,Public Works,Rejected,Low,2024-03-17 10:25:44.082748,749
+Lisa Garcia,lisa.garcia@example.com,Request to establish senior services in the north district for community development.,Education,Education,In Progress,Low,2024-08-11 10:25:44.082748,843
+Michael Garcia,michael.garcia@example.com,Request to establish youth programs in the suburban area for future generations.,Environment,Environmental Protection,Resolved,Low,2024-06-19 10:25:44.082748,811
+John Miller,john.miller@example.com,Request to establish small business support in the residential area to improve accessibility.,Education,Youth Services,Resolved,Medium,2024-08-25 10:25:44.082748,79
+John Jones,john.jones@example.com,Request to expand senior services in the west side for better quality of life.,Community Services,Social Services,Resolved,Low,2024-04-07 10:25:44.082748,253
+Sarah Miller,sarah.miller@example.com,Request to expand affordable housing in the west side for better quality of life.,Environment,Parks and Recreation,Under Review,Low,2025-02-07 10:25:44.082748,631
+Jane Smith,jane.smith@example.com,Request to upgrade senior services in the east side for better quality of life.,Healthcare,Health Services,In Progress,Medium,2024-05-31 10:25:44.082748,446
+Robert Smith,robert.smith@example.com,Request to upgrade noise pollution in the suburban area to support local economy.,Transportation,Transportation,Resolved,Medium,2024-12-20 10:25:44.082748,325
+Michael Smith,michael.smith@example.com,Request to renovate school facilities in the suburban area to address resident concerns.,Healthcare,Health Services,In Progress,Low,2025-02-02 10:25:44.082748,729
+John Johnson,john.johnson@example.com,Request to expand park facilities in the east side for better quality of life.,Community Services,Social Services,Resolved,Low,2024-03-21 10:25:44.082748,761
+Robert Jones,robert.jones@example.com,Request to improve bike lanes in the downtown to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-12-20 10:25:44.082748,890
+Sarah Garcia,sarah.garcia@example.com,Request to create small business support in the central area to improve accessibility.,Public Safety,Public Safety,Resolved,Medium,2024-11-22 10:25:44.082748,58
+Sarah Brown,sarah.brown@example.com,Request to establish small business support in the industrial zone for sustainable development.,Transportation,Traffic Management,Resolved,Low,2024-07-29 10:25:44.082748,40
+David Johnson,david.johnson@example.com,Request to create healthcare access in the south district to ensure public safety.,Economic Development,Business Relations,Resolved,High,2024-04-19 10:25:44.082748,775
+Emily Johnson,emily.johnson@example.com,Request to expand healthcare access in the west side for sustainable development.,Education,Education,In Progress,Low,2024-12-04 10:25:44.082748,74
+John Jones,john.jones@example.com,Request to develop youth programs in the west side for better quality of life.,Community Services,Social Services,Resolved,Low,2024-05-18 10:25:44.082748,65
+Lisa Davis,lisa.davis@example.com,Request to establish air quality in the west side for sustainable development.,Infrastructure,City Planning,Resolved,Low,2024-03-21 10:25:44.082748,380
+Jane Miller,jane.miller@example.com,Request to expand sidewalk repairs in the central area to meet growing demands.,Public Safety,Emergency Services,Resolved,Low,2024-05-23 10:25:44.082748,182
+John Williams,john.williams@example.com,Request to establish youth programs in the suburban area to ensure public safety.,Environment,Parks and Recreation,Resolved,High,2024-12-22 10:25:44.082748,549
+Michael Miller,michael.miller@example.com,Request to upgrade small business support in the south district for future generations.,Community Services,Social Services,Resolved,Medium,2024-10-10 10:25:44.082748,691
+David Miller,david.miller@example.com,Request to develop healthcare access in the central area to support local economy.,Infrastructure,City Planning,In Progress,Low,2024-10-15 10:25:44.082748,552
+Robert Johnson,robert.johnson@example.com,Request to enhance youth programs in the suburban area to ensure public safety.,Infrastructure,City Planning,Rejected,High,2024-12-07 10:25:44.082748,319
+Lisa Williams,lisa.williams@example.com,Request to expand public safety in the central area for future generations.,Community Services,Social Services,In Progress,High,2024-06-03 10:25:44.082748,880
+Lisa Miller,lisa.miller@example.com,Request to enhance water supply in the west side to meet growing demands.,Environment,Environmental Protection,Resolved,Low,2024-09-29 10:25:44.082748,520
+Sarah Johnson,sarah.johnson@example.com,Request to implement senior services in the central area to address resident concerns.,Healthcare,Health Services,Resolved,Low,2024-02-20 10:25:44.082748,32
+Robert Garcia,robert.garcia@example.com,Request to maintain street lighting in the north district to improve accessibility.,Transportation,Traffic Management,In Progress,Medium,2025-01-27 10:25:44.082748,278
+Michael Brown,michael.brown@example.com,Request to improve public transportation in the south district for better quality of life.,Environment,Environmental Protection,In Progress,Medium,2024-12-28 10:25:44.082748,548
+Emily Garcia,emily.garcia@example.com,Request to maintain public safety in the south district to support local economy.,Transportation,Traffic Management,In Progress,High,2024-05-25 10:25:44.082748,133
+Sarah Garcia,sarah.garcia@example.com,Request to develop air quality in the downtown for sustainable development.,Education,Education,Resolved,Low,2024-11-30 10:25:44.082748,268
+Sarah Jones,sarah.jones@example.com,Request to maintain water supply in the east side to meet growing demands.,Healthcare,Public Health,Rejected,Low,2024-06-08 10:25:44.082748,297
+John Jones,john.jones@example.com,Request to upgrade community centers in the south district to address resident concerns.,Transportation,Traffic Management,In Progress,Medium,2024-07-07 10:25:44.082748,454
+Emily Miller,emily.miller@example.com,Request to upgrade senior services in the business district for environmental protection.,Economic Development,Economic Development,Resolved,Medium,2024-09-19 10:25:44.082748,376
+Jane Williams,jane.williams@example.com,Request to establish sidewalk repairs in the west side to improve accessibility.,Public Safety,Emergency Services,Resolved,Medium,2024-06-10 10:25:44.082748,629
+Lisa Williams,lisa.williams@example.com,Request to implement traffic signals in the business district for environmental protection.,Education,Youth Services,Resolved,Low,2024-05-08 10:25:44.082748,277
+Lisa Garcia,lisa.garcia@example.com,Request to maintain small business support in the west side for sustainable development.,Healthcare,Public Health,In Progress,Low,2024-11-17 10:25:44.082748,529
+Michael Smith,michael.smith@example.com,Request to expand street lighting in the residential area to address resident concerns.,Transportation,Transportation,In Progress,Low,2024-07-22 10:25:44.082748,261
+Emily Brown,emily.brown@example.com,Request to create traffic signals in the industrial zone to address resident concerns.,Infrastructure,City Planning,Resolved,Low,2024-11-05 10:25:44.082748,134
+Emily Williams,emily.williams@example.com,Request to maintain traffic signals in the east side for environmental protection.,Infrastructure,Public Works,In Progress,Low,2025-01-27 10:25:44.082748,943
+Emily Johnson,emily.johnson@example.com,Request to improve public transportation in the business district for environmental protection.,Community Services,Social Services,Resolved,Medium,2024-10-04 10:25:44.082748,882
+Lisa Johnson,lisa.johnson@example.com,Request to improve public safety in the east side to support local economy.,Infrastructure,City Planning,Rejected,High,2024-04-09 10:25:44.082748,67
+David Davis,david.davis@example.com,Request to upgrade waste management in the east side for environmental protection.,Transportation,Transportation,In Progress,Medium,2025-01-21 10:25:44.082748,887
+Lisa Garcia,lisa.garcia@example.com,Request to implement small business support in the south district to meet growing demands.,Economic Development,Business Relations,Rejected,Low,2024-04-19 10:25:44.082748,200
+Emily Johnson,emily.johnson@example.com,Request to renovate youth programs in the east side to ensure public safety.,Infrastructure,Public Works,In Progress,High,2024-09-26 10:25:44.082748,995
+David Miller,david.miller@example.com,Request to develop parking facilities in the suburban area for sustainable development.,Infrastructure,Public Works,Resolved,Low,2024-10-06 10:25:44.082748,553
+Michael Smith,michael.smith@example.com,Request to maintain small business support in the residential area for better quality of life.,Healthcare,Public Health,In Progress,Low,2024-12-18 10:25:44.082748,635
+Michael Williams,michael.williams@example.com,Request to enhance traffic signals in the suburban area for better quality of life.,Education,Youth Services,Rejected,Low,2024-09-29 10:25:44.082748,933
+John Jones,john.jones@example.com,Request to improve road maintenance in the downtown to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-10-23 10:25:44.082748,506
+David Johnson,david.johnson@example.com,Request to establish community centers in the central area to meet growing demands.,Environment,Parks and Recreation,Rejected,Low,2024-05-20 10:25:44.082748,535
+Robert Garcia,robert.garcia@example.com,Request to implement air quality in the east side to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-06-08 10:25:44.082748,289
+Lisa Garcia,lisa.garcia@example.com,Request to improve healthcare access in the downtown for sustainable development.,Infrastructure,City Planning,Resolved,Medium,2024-05-05 10:25:44.082748,271
+Michael Johnson,michael.johnson@example.com,Request to implement school facilities in the business district for community development.,Public Safety,Public Safety,Resolved,Low,2024-06-14 10:25:44.082748,768
+Jane Smith,jane.smith@example.com,Request to establish senior services in the north district to address resident concerns.,Transportation,Traffic Management,In Progress,Low,2024-10-22 10:25:44.082748,663
+Emily Brown,emily.brown@example.com,Request to expand water supply in the north district to address resident concerns.,Community Services,Community Development,Resolved,Low,2024-10-08 10:25:44.082748,44
+Jane Brown,jane.brown@example.com,Request to improve public safety in the business district for community development.,Public Safety,Emergency Services,Resolved,High,2024-05-01 10:25:44.082748,484
+John Miller,john.miller@example.com,Request to upgrade healthcare access in the west side for sustainable development.,Transportation,Transportation,In Progress,Medium,2024-02-21 10:25:44.082748,702
+David Garcia,david.garcia@example.com,Request to improve bike lanes in the west side for sustainable development.,Transportation,Transportation,In Progress,Medium,2024-06-24 10:25:44.082748,180
+David Miller,david.miller@example.com,Request to develop parking facilities in the business district to meet growing demands.,Public Safety,Public Safety,In Progress,Low,2024-12-02 10:25:44.082748,352
+Jane Jones,jane.jones@example.com,Request to develop senior services in the south district to meet growing demands.,Environment,Parks and Recreation,Resolved,Low,2024-09-04 10:25:44.082748,801
+Jane Davis,jane.davis@example.com,Request to implement community centers in the south district for environmental protection.,Education,Education,In Progress,Low,2024-05-14 10:25:44.082748,772
+Robert Smith,robert.smith@example.com,Request to maintain public transportation in the north district for environmental protection.,Infrastructure,Public Works,In Progress,Low,2024-10-16 10:25:44.082748,284
+Robert Jones,robert.jones@example.com,Request to enhance traffic signals in the south district to support local economy.,Infrastructure,City Planning,Resolved,Low,2024-07-10 10:25:44.082748,261
+Sarah Jones,sarah.jones@example.com,Request to expand public safety in the suburban area to address resident concerns.,Environment,Parks and Recreation,Resolved,High,2024-04-28 10:25:44.082748,845
+Jane Garcia,jane.garcia@example.com,Request to maintain sidewalk repairs in the downtown to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-04-16 10:25:44.082748,447
+Michael Williams,michael.williams@example.com,Request to enhance park facilities in the north district for community development.,Environment,Environmental Protection,Resolved,Low,2024-11-14 10:25:44.082748,355
+John Smith,john.smith@example.com,Request to implement road maintenance in the south district to meet growing demands.,Public Safety,Public Safety,In Progress,Low,2025-01-30 10:25:44.082748,947
+Jane Jones,jane.jones@example.com,Request to upgrade air quality in the east side to address resident concerns.,Public Safety,Emergency Services,Resolved,Medium,2024-04-10 10:25:44.082748,725
+Sarah Garcia,sarah.garcia@example.com,Request to maintain healthcare access in the downtown to support local economy.,Infrastructure,Public Works,Under Review,Low,2025-02-11 10:25:44.082748,841
+David Williams,david.williams@example.com,Request to enhance school facilities in the north district for environmental protection.,Community Services,Community Development,In Progress,Low,2024-05-14 10:25:44.082748,638
+Michael Williams,michael.williams@example.com,Request to renovate senior services in the residential area for environmental protection.,Healthcare,Public Health,Resolved,Low,2024-03-02 10:25:44.082748,126
+Michael Davis,michael.davis@example.com,Request to renovate small business support in the south district for environmental protection.,Public Safety,Emergency Services,In Progress,Low,2024-12-29 10:25:44.082748,362
+David Garcia,david.garcia@example.com,Request to maintain street lighting in the south district for future generations.,Infrastructure,City Planning,Resolved,Low,2024-05-10 10:25:44.082748,154
+Emily Brown,emily.brown@example.com,Request to enhance air quality in the industrial zone to ensure public safety.,Education,Youth Services,In Progress,High,2024-10-21 10:25:44.082748,789
+Robert Brown,robert.brown@example.com,Request to enhance public safety in the west side to meet growing demands.,Transportation,Transportation,Resolved,High,2024-11-22 10:25:44.082748,553
+Sarah Brown,sarah.brown@example.com,Request to expand water supply in the south district to address resident concerns.,Infrastructure,Public Works,Resolved,Low,2024-03-23 10:25:44.082748,864
+Jane Brown,jane.brown@example.com,Request to establish parking facilities in the south district to improve accessibility.,Transportation,Transportation,Under Review,Medium,2025-02-09 10:25:44.082748,148
+Lisa Miller,lisa.miller@example.com,Request to improve healthcare access in the south district to address resident concerns.,Transportation,Traffic Management,Under Review,Medium,2025-01-25 10:25:44.082748,514
+Robert Brown,robert.brown@example.com,Request to upgrade public safety in the residential area to support local economy.,Infrastructure,Public Works,Resolved,High,2024-11-27 10:25:44.082748,230
+Michael Miller,michael.miller@example.com,Request to enhance senior services in the downtown to support local economy.,Transportation,Transportation,Resolved,Low,2024-10-20 10:25:44.082748,462
+David Miller,david.miller@example.com,Request to expand air quality in the west side to improve accessibility.,Infrastructure,Public Works,In Progress,Medium,2024-11-21 10:25:44.082748,532
+John Miller,john.miller@example.com,Request to maintain sidewalk repairs in the west side to support local economy.,Public Safety,Public Safety,In Progress,Low,2024-03-01 10:25:44.082748,849
+Robert Miller,robert.miller@example.com,Request to create street lighting in the south district for future generations.,Community Services,Social Services,Resolved,Low,2025-01-12 10:25:44.082748,376
+Michael Smith,michael.smith@example.com,Request to upgrade public safety in the industrial zone to support local economy.,Healthcare,Health Services,In Progress,High,2024-09-24 10:25:44.082748,749
+Jane Johnson,jane.johnson@example.com,Request to enhance senior services in the business district for community development.,Healthcare,Health Services,Resolved,Low,2024-07-04 10:25:44.082748,720
+Jane Davis,jane.davis@example.com,Request to renovate road maintenance in the north district for community development.,Community Services,Social Services,Resolved,Low,2024-10-03 10:25:44.082748,975
+John Jones,john.jones@example.com,Request to create school facilities in the east side for environmental protection.,Infrastructure,City Planning,Under Review,Low,2025-02-06 10:25:44.082748,123
+Jane Smith,jane.smith@example.com,Request to establish traffic signals in the suburban area to improve accessibility.,Infrastructure,Public Works,In Progress,Medium,2024-09-27 10:25:44.082748,224
+Sarah Garcia,sarah.garcia@example.com,Request to upgrade air quality in the residential area for better quality of life.,Infrastructure,Public Works,Resolved,Medium,2024-08-23 10:25:44.082748,100
+Emily Davis,emily.davis@example.com,Request to establish community centers in the north district for future generations.,Environment,Environmental Protection,Rejected,Low,2024-02-21 10:25:44.082748,814
+Jane Miller,jane.miller@example.com,Request to develop senior services in the downtown for better quality of life.,Infrastructure,Public Works,Resolved,Low,2025-01-05 10:25:44.082748,665
+Robert Williams,robert.williams@example.com,Request to maintain road maintenance in the south district to address resident concerns.,Community Services,Community Development,Resolved,Low,2024-07-10 10:25:44.082748,706
+Jane Davis,jane.davis@example.com,Request to create affordable housing in the south district for environmental protection.,Environment,Parks and Recreation,Rejected,Low,2024-06-28 10:25:44.082748,843
+Jane Brown,jane.brown@example.com,Request to improve sidewalk repairs in the south district to support local economy.,Environment,Environmental Protection,Resolved,Medium,2024-02-27 10:25:44.082748,107
+Emily Brown,emily.brown@example.com,Request to develop park facilities in the north district for sustainable development.,Infrastructure,Public Works,In Progress,Low,2024-02-25 10:25:44.082748,983
+Sarah Williams,sarah.williams@example.com,Request to renovate park facilities in the east side to meet growing demands.,Transportation,Traffic Management,In Progress,Low,2025-02-04 10:25:44.082748,332
+Jane Miller,jane.miller@example.com,Request to establish noise pollution in the downtown to support local economy.,Transportation,Traffic Management,Resolved,Low,2024-05-23 10:25:44.082748,954
+Sarah Davis,sarah.davis@example.com,Request to improve park facilities in the central area to meet growing demands.,Public Safety,Public Safety,In Progress,Medium,2024-09-10 10:25:44.082748,897
+Lisa Miller,lisa.miller@example.com,Request to create road maintenance in the suburban area to support local economy.,Public Safety,Emergency Services,Resolved,Low,2024-09-12 10:25:44.082748,984
+Lisa Garcia,lisa.garcia@example.com,Request to establish youth programs in the business district for environmental protection.,Public Safety,Emergency Services,Resolved,Low,2024-10-13 10:25:44.082748,793
+John Jones,john.jones@example.com,Request to renovate street lighting in the east side for environmental protection.,Transportation,Transportation,Rejected,Low,2024-12-14 10:25:44.082748,935
+Michael Johnson,michael.johnson@example.com,Request to implement waste management in the south district to ensure public safety.,Community Services,Social Services,In Progress,High,2024-03-10 10:25:44.082748,782
+Jane Garcia,jane.garcia@example.com,Request to create waste management in the industrial zone for future generations.,Transportation,Transportation,Rejected,Low,2024-06-21 10:25:44.082748,898
+Lisa Davis,lisa.davis@example.com,Request to establish public transportation in the business district to address resident concerns.,Healthcare,Public Health,Resolved,Low,2024-05-03 10:25:44.082748,46
+Robert Garcia,robert.garcia@example.com,Request to establish street lighting in the downtown for community development.,Healthcare,Health Services,In Progress,Low,2024-07-27 10:25:44.082748,668
+Robert Williams,robert.williams@example.com,Request to implement road maintenance in the south district to ensure public safety.,Public Safety,Public Safety,Resolved,High,2024-03-25 10:25:44.082748,472
+John Davis,john.davis@example.com,Request to implement public transportation in the residential area for environmental protection.,Transportation,Traffic Management,Resolved,Low,2024-05-05 10:25:44.082748,979
+Sarah Williams,sarah.williams@example.com,Request to expand small business support in the west side to improve accessibility.,Transportation,Traffic Management,Resolved,Medium,2024-05-22 10:25:44.082748,47
+Emily Miller,emily.miller@example.com,Request to create air quality in the south district to support local economy.,Economic Development,Business Relations,Resolved,Low,2024-02-23 10:25:44.082748,132
+John Williams,john.williams@example.com,Request to maintain traffic signals in the south district to address resident concerns.,Public Safety,Emergency Services,In Progress,Low,2024-10-06 10:25:44.082748,542
+Lisa Williams,lisa.williams@example.com,Request to create air quality in the west side for community development.,Infrastructure,Public Works,Resolved,Low,2024-05-14 10:25:44.082748,724
+Jane Johnson,jane.johnson@example.com,Request to expand youth programs in the central area to ensure public safety.,Public Safety,Emergency Services,Under Review,High,2025-02-12 10:25:44.082748,901
+Jane Miller,jane.miller@example.com,Request to improve water supply in the business district for future generations.,Environment,Parks and Recreation,In Progress,Medium,2024-04-09 10:25:44.082748,37
+Emily Miller,emily.miller@example.com,Request to upgrade public safety in the west side to ensure public safety.,Infrastructure,City Planning,Resolved,High,2025-01-13 10:25:44.082748,569
+David Brown,david.brown@example.com,Request to enhance school facilities in the downtown to meet growing demands.,Environment,Parks and Recreation,Resolved,Low,2024-04-27 10:25:44.082748,724
+Robert Jones,robert.jones@example.com,Request to enhance senior services in the downtown for sustainable development.,Economic Development,Economic Development,Resolved,Low,2024-07-20 10:25:44.082748,338
+John Johnson,john.johnson@example.com,Request to renovate water supply in the north district for community development.,Transportation,Traffic Management,Rejected,Low,2024-10-30 10:25:44.082748,504
+Robert Williams,robert.williams@example.com,Request to enhance public safety in the industrial zone to support local economy.,Public Safety,Public Safety,In Progress,High,2024-11-03 10:25:44.082748,317
+David Johnson,david.johnson@example.com,Request to enhance water supply in the east side to support local economy.,Healthcare,Public Health,Resolved,Low,2024-07-14 10:25:44.082748,386
+Emily Jones,emily.jones@example.com,Request to improve community centers in the east side for better quality of life.,Community Services,Community Development,Rejected,Medium,2024-05-29 10:25:44.082748,731
+Sarah Williams,sarah.williams@example.com,Request to implement water supply in the central area to support local economy.,Infrastructure,City Planning,Rejected,Low,2024-05-03 10:25:44.082748,232
+Jane Miller,jane.miller@example.com,Request to establish affordable housing in the industrial zone for future generations.,Infrastructure,Public Works,Resolved,Low,2024-03-01 10:25:44.082748,713
+David Johnson,david.johnson@example.com,Request to upgrade air quality in the south district to meet growing demands.,Environment,Parks and Recreation,In Progress,Medium,2025-01-03 10:25:44.082748,225
+David Williams,david.williams@example.com,Request to develop public transportation in the west side to ensure public safety.,Infrastructure,City Planning,Resolved,High,2024-04-16 10:25:44.082748,279
+David Johnson,david.johnson@example.com,Request to implement noise pollution in the residential area for community development.,Infrastructure,City Planning,Resolved,Low,2024-05-15 10:25:44.082748,779
+Sarah Miller,sarah.miller@example.com,Request to create street lighting in the west side to address resident concerns.,Healthcare,Public Health,Resolved,Low,2024-04-29 10:25:44.082748,433
+John Brown,john.brown@example.com,Request to expand senior services in the south district for better quality of life.,Education,Education,Resolved,Low,2024-02-20 10:25:44.082748,746
+David Smith,david.smith@example.com,Request to develop street lighting in the north district for environmental protection.,Transportation,Traffic Management,In Progress,Low,2024-03-06 10:25:44.082748,452
+Sarah Brown,sarah.brown@example.com,Request to establish noise pollution in the west side for community development.,Infrastructure,City Planning,Resolved,Low,2024-11-15 10:25:44.082748,87
+Emily Davis,emily.davis@example.com,Request to expand parking facilities in the downtown to support local economy.,Public Safety,Public Safety,In Progress,Low,2025-01-06 10:25:44.082748,176
+Sarah Williams,sarah.williams@example.com,Request to enhance youth programs in the central area for future generations.,Community Services,Community Development,Resolved,Low,2025-01-01 10:25:44.082748,510
+Robert Smith,robert.smith@example.com,Request to renovate affordable housing in the north district to ensure public safety.,Economic Development,Business Relations,Resolved,High,2024-08-26 10:25:44.082748,829
+Sarah Smith,sarah.smith@example.com,Request to implement traffic signals in the north district for environmental protection.,Economic Development,Economic Development,In Progress,Low,2024-10-20 10:25:44.082748,894
+Sarah Jones,sarah.jones@example.com,Request to implement road maintenance in the west side to address resident concerns.,Environment,Environmental Protection,In Progress,Low,2024-03-15 10:25:44.082748,565
+David Johnson,david.johnson@example.com,Request to upgrade water supply in the industrial zone for environmental protection.,Healthcare,Public Health,Resolved,Medium,2024-11-28 10:25:44.082748,590
+Emily Garcia,emily.garcia@example.com,Request to create street lighting in the suburban area for better quality of life.,Infrastructure,Public Works,Resolved,Low,2024-12-03 10:25:44.082748,595
+Lisa Jones,lisa.jones@example.com,Request to renovate school facilities in the downtown to support local economy.,Environment,Parks and Recreation,Resolved,Low,2024-10-06 10:25:44.082748,454
+Michael Smith,michael.smith@example.com,Request to establish sidewalk repairs in the industrial zone to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-10-10 10:25:44.082748,469
+Jane Brown,jane.brown@example.com,Request to maintain public safety in the business district to support local economy.,Public Safety,Emergency Services,Resolved,High,2024-04-27 10:25:44.082748,579
+Emily Garcia,emily.garcia@example.com,Request to enhance affordable housing in the business district for environmental protection.,Transportation,Traffic Management,Resolved,Low,2024-08-23 10:25:44.082748,657
+John Williams,john.williams@example.com,Request to expand school facilities in the south district to meet growing demands.,Infrastructure,Public Works,In Progress,Low,2025-01-21 10:25:44.082748,168
+Michael Johnson,michael.johnson@example.com,Request to implement senior services in the suburban area for sustainable development.,Environment,Environmental Protection,Under Review,Low,2025-01-21 10:25:44.082748,924
+Emily Brown,emily.brown@example.com,Request to establish road maintenance in the west side to improve accessibility.,Infrastructure,Public Works,In Progress,Medium,2024-03-23 10:25:44.082748,96
+Lisa Garcia,lisa.garcia@example.com,Request to implement small business support in the business district for environmental protection.,Infrastructure,City Planning,Resolved,Low,2024-11-07 10:25:44.082748,229
+Michael Davis,michael.davis@example.com,Request to implement road maintenance in the central area for sustainable development.,Transportation,Transportation,In Progress,Low,2025-01-07 10:25:44.082748,787
+Michael Smith,michael.smith@example.com,Request to implement traffic signals in the south district for environmental protection.,Infrastructure,Public Works,Rejected,Low,2024-02-23 10:25:44.082748,452
+Jane Garcia,jane.garcia@example.com,Request to renovate healthcare access in the residential area for sustainable development.,Economic Development,Business Relations,Resolved,Low,2024-06-23 10:25:44.082748,11
+Sarah Smith,sarah.smith@example.com,Request to implement street lighting in the industrial zone for sustainable development.,Education,Youth Services,In Progress,Low,2024-10-07 10:25:44.082748,60
+Jane Johnson,jane.johnson@example.com,Request to develop park facilities in the residential area for community development.,Environment,Environmental Protection,In Progress,Low,2024-07-29 10:25:44.082748,648
+Michael Jones,michael.jones@example.com,Request to expand bike lanes in the industrial zone to improve accessibility.,Environment,Environmental Protection,In Progress,Medium,2024-05-31 10:25:44.082748,15
+Sarah Jones,sarah.jones@example.com,Request to improve youth programs in the north district for environmental protection.,Community Services,Community Development,Resolved,Medium,2024-10-26 10:25:44.082748,44
+Emily Miller,emily.miller@example.com,Request to improve small business support in the industrial zone for sustainable development.,Public Safety,Public Safety,Resolved,Medium,2024-06-07 10:25:44.082748,287
+John Smith,john.smith@example.com,Request to enhance healthcare access in the east side to support local economy.,Healthcare,Health Services,Resolved,Low,2024-05-06 10:25:44.082748,284
+Lisa Johnson,lisa.johnson@example.com,Request to improve public transportation in the industrial zone to support local economy.,Community Services,Community Development,In Progress,Medium,2024-08-05 10:25:44.082748,184
+Emily Garcia,emily.garcia@example.com,Request to improve school facilities in the downtown for sustainable development.,Infrastructure,Public Works,Rejected,Medium,2024-09-24 10:25:44.082748,686
+Emily Jones,emily.jones@example.com,Request to maintain air quality in the east side for future generations.,Public Safety,Public Safety,Resolved,Low,2024-05-23 10:25:44.082748,352
+Lisa Jones,lisa.jones@example.com,Request to enhance road maintenance in the east side for sustainable development.,Environment,Parks and Recreation,Resolved,Low,2024-04-30 10:25:44.082748,387
+Sarah Johnson,sarah.johnson@example.com,Request to enhance air quality in the central area to address resident concerns.,Education,Education,Resolved,Low,2024-11-28 10:25:44.082748,71
+David Williams,david.williams@example.com,Request to maintain air quality in the west side to address resident concerns.,Public Safety,Public Safety,In Progress,Low,2024-06-26 10:25:44.082748,157
+Jane Davis,jane.davis@example.com,Request to develop air quality in the south district to ensure public safety.,Healthcare,Health Services,Resolved,High,2024-04-10 10:25:44.082748,625
+David Jones,david.jones@example.com,Request to establish sidewalk repairs in the east side for future generations.,Transportation,Transportation,Resolved,Low,2024-03-22 10:25:44.082748,30
+Jane Smith,jane.smith@example.com,Request to maintain waste management in the south district for community development.,Healthcare,Health Services,Rejected,Low,2025-01-01 10:25:44.082748,280
+Michael Miller,michael.miller@example.com,Request to develop youth programs in the suburban area for environmental protection.,Environment,Parks and Recreation,Resolved,Low,2024-07-23 10:25:44.082748,981
+Sarah Smith,sarah.smith@example.com,Request to renovate noise pollution in the central area for sustainable development.,Healthcare,Health Services,Resolved,Low,2024-08-16 10:25:44.082748,149
+Sarah Brown,sarah.brown@example.com,Request to renovate community centers in the east side to improve accessibility.,Healthcare,Public Health,Resolved,Medium,2024-07-30 10:25:44.082748,977
+John Brown,john.brown@example.com,Request to implement public transportation in the central area for community development.,Education,Youth Services,In Progress,Low,2024-05-28 10:25:44.082748,198
+John Miller,john.miller@example.com,Request to develop park facilities in the business district for sustainable development.,Transportation,Transportation,In Progress,Low,2024-08-29 10:25:44.082748,227
+Sarah Smith,sarah.smith@example.com,Request to maintain waste management in the east side to meet growing demands.,Infrastructure,Public Works,Resolved,Low,2024-12-18 10:25:44.082748,39
+David Williams,david.williams@example.com,Request to upgrade street lighting in the industrial zone for sustainable development.,Infrastructure,City Planning,Under Review,Medium,2025-01-28 10:25:44.082748,532
+Robert Garcia,robert.garcia@example.com,Request to expand community centers in the business district for sustainable development.,Environment,Environmental Protection,Resolved,Low,2024-12-21 10:25:44.082748,208
+Lisa Garcia,lisa.garcia@example.com,Request to improve youth programs in the west side for environmental protection.,Education,Education,In Progress,Medium,2024-12-27 10:25:44.082748,828
+David Smith,david.smith@example.com,Request to develop bike lanes in the residential area to improve accessibility.,Community Services,Social Services,Resolved,Medium,2024-09-04 10:25:44.082748,488
+David Brown,david.brown@example.com,Request to develop youth programs in the downtown for better quality of life.,Infrastructure,City Planning,In Progress,Low,2024-09-08 10:25:44.082748,685
+Michael Miller,michael.miller@example.com,Request to upgrade youth programs in the business district to ensure public safety.,Environment,Parks and Recreation,Resolved,High,2024-07-08 10:25:44.082748,699
+Emily Brown,emily.brown@example.com,Request to upgrade sidewalk repairs in the central area for future generations.,Transportation,Transportation,Resolved,Medium,2024-10-07 10:25:44.082748,729
+David Brown,david.brown@example.com,Request to upgrade air quality in the south district for future generations.,Environment,Environmental Protection,In Progress,Medium,2024-03-16 10:25:44.082748,659
+Michael Smith,michael.smith@example.com,Request to expand community centers in the suburban area for environmental protection.,Public Safety,Public Safety,Resolved,Low,2024-12-31 10:25:44.082748,498
+Lisa Jones,lisa.jones@example.com,Request to renovate waste management in the north district for better quality of life.,Transportation,Transportation,Resolved,Low,2024-12-12 10:25:44.082748,614
+John Brown,john.brown@example.com,Request to improve noise pollution in the east side to meet growing demands.,Transportation,Traffic Management,Resolved,Medium,2024-09-15 10:25:44.082748,132
+Lisa Miller,lisa.miller@example.com,Request to maintain parking facilities in the west side for environmental protection.,Infrastructure,City Planning,Resolved,Low,2024-05-19 10:25:44.082748,701
+Emily Miller,emily.miller@example.com,Request to develop healthcare access in the industrial zone for better quality of life.,Community Services,Social Services,In Progress,Low,2024-03-11 10:25:44.082748,576
+Emily Miller,emily.miller@example.com,Request to improve public transportation in the downtown to support local economy.,Healthcare,Public Health,Resolved,Medium,2024-05-31 10:25:44.082748,980
+Robert Jones,robert.jones@example.com,Request to establish air quality in the south district for future generations.,Healthcare,Public Health,In Progress,Low,2024-05-23 10:25:44.082748,688
+Michael Davis,michael.davis@example.com,Request to renovate water supply in the north district for community development.,Community Services,Community Development,In Progress,Low,2024-03-21 10:25:44.082748,93
+Emily Davis,emily.davis@example.com,Request to maintain small business support in the central area for future generations.,Public Safety,Emergency Services,In Progress,Low,2024-12-24 10:25:44.082748,337
+Jane Williams,jane.williams@example.com,Request to implement waste management in the business district to address resident concerns.,Infrastructure,City Planning,Under Review,Low,2025-01-18 10:25:44.082748,887
+Emily Davis,emily.davis@example.com,Request to renovate road maintenance in the central area for environmental protection.,Infrastructure,Public Works,Resolved,Low,2024-11-16 10:25:44.082748,212
+Jane Johnson,jane.johnson@example.com,Request to expand small business support in the residential area to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-08-20 10:25:44.082748,951
+Emily Brown,emily.brown@example.com,Request to create public transportation in the industrial zone to improve accessibility.,Education,Education,Resolved,Medium,2024-02-17 10:25:44.082748,795
+John Smith,john.smith@example.com,Request to create street lighting in the suburban area to improve accessibility.,Education,Youth Services,In Progress,Medium,2024-06-19 10:25:44.082748,771
+Emily Garcia,emily.garcia@example.com,Request to create senior services in the central area to address resident concerns.,Public Safety,Public Safety,Resolved,Low,2024-07-09 10:25:44.082748,286
+Robert Williams,robert.williams@example.com,Request to renovate bike lanes in the business district to improve accessibility.,Environment,Parks and Recreation,Resolved,Medium,2024-05-19 10:25:44.082748,395
+Robert Brown,robert.brown@example.com,Request to maintain park facilities in the residential area for community development.,Education,Education,Resolved,Low,2024-04-20 10:25:44.082748,524
+Sarah Smith,sarah.smith@example.com,Request to develop water supply in the industrial zone for sustainable development.,Public Safety,Public Safety,In Progress,Low,2024-09-15 10:25:44.082748,767
+Lisa Smith,lisa.smith@example.com,Request to create youth programs in the industrial zone for better quality of life.,Transportation,Traffic Management,Resolved,Low,2024-10-07 10:25:44.082748,970
+Emily Smith,emily.smith@example.com,Request to expand small business support in the suburban area to meet growing demands.,Infrastructure,City Planning,In Progress,Low,2024-08-11 10:25:44.082748,795
+Robert Smith,robert.smith@example.com,Request to upgrade community centers in the central area for sustainable development.,Infrastructure,Public Works,Resolved,Medium,2024-03-30 10:25:44.082748,139
+David Davis,david.davis@example.com,Request to establish public safety in the industrial zone for better quality of life.,Transportation,Transportation,In Progress,High,2024-09-09 10:25:44.082748,954
+Michael Smith,michael.smith@example.com,Request to enhance school facilities in the north district to support local economy.,Public Safety,Public Safety,Resolved,Low,2024-10-05 10:25:44.082748,674
+Jane Smith,jane.smith@example.com,Request to renovate water supply in the west side for community development.,Environment,Parks and Recreation,Resolved,Low,2024-07-18 10:25:44.082748,878
+Michael Brown,michael.brown@example.com,Request to develop street lighting in the north district to meet growing demands.,Healthcare,Public Health,Under Review,Low,2025-01-18 10:25:44.082748,741
+John Garcia,john.garcia@example.com,Request to establish affordable housing in the downtown to meet growing demands.,Transportation,Traffic Management,Resolved,Low,2024-08-04 10:25:44.082748,187
+John Johnson,john.johnson@example.com,Request to establish public safety in the residential area to improve accessibility.,Infrastructure,Public Works,In Progress,High,2024-09-07 10:25:44.082748,63
+David Garcia,david.garcia@example.com,Request to upgrade youth programs in the north district to improve accessibility.,Economic Development,Economic Development,Resolved,Medium,2024-05-07 10:25:44.082748,44
+John Williams,john.williams@example.com,Request to upgrade youth programs in the business district for community development.,Transportation,Transportation,Rejected,Medium,2024-07-14 10:25:44.082748,344
+Michael Garcia,michael.garcia@example.com,Request to renovate public transportation in the downtown for better quality of life.,Economic Development,Economic Development,Resolved,Low,2024-12-19 10:25:44.082748,713
+Jane Brown,jane.brown@example.com,Request to develop air quality in the residential area to address resident concerns.,Public Safety,Public Safety,Under Review,Low,2025-01-20 10:25:44.082748,299
+Robert Davis,robert.davis@example.com,Request to develop youth programs in the east side to address resident concerns.,Environment,Parks and Recreation,Resolved,Low,2024-03-27 10:25:44.082748,679
+Sarah Davis,sarah.davis@example.com,Request to maintain small business support in the suburban area for community development.,Education,Youth Services,Resolved,Low,2024-04-27 10:25:44.082748,772
+David Brown,david.brown@example.com,Request to renovate bike lanes in the west side for environmental protection.,Economic Development,Economic Development,Resolved,Low,2024-12-25 10:25:44.082748,534
+Jane Johnson,jane.johnson@example.com,Request to renovate public transportation in the industrial zone to meet growing demands.,Public Safety,Emergency Services,Resolved,Low,2024-03-04 10:25:44.082748,796
+Michael Smith,michael.smith@example.com,Request to renovate youth programs in the west side for community development.,Education,Youth Services,Resolved,Low,2024-09-17 10:25:44.082748,934
+Sarah Brown,sarah.brown@example.com,Request to establish traffic signals in the north district for environmental protection.,Economic Development,Business Relations,Resolved,Low,2024-03-27 10:25:44.082748,462
+Michael Garcia,michael.garcia@example.com,Request to maintain public safety in the south district to address resident concerns.,Environment,Parks and Recreation,Resolved,High,2024-04-10 10:25:44.082748,286
+Jane Davis,jane.davis@example.com,Request to enhance senior services in the south district to meet growing demands.,Transportation,Transportation,Resolved,Low,2024-07-23 10:25:44.082748,325
+Sarah Miller,sarah.miller@example.com,Request to improve water supply in the south district for community development.,Economic Development,Economic Development,Resolved,Medium,2024-07-24 10:25:44.082748,664
+David Miller,david.miller@example.com,Request to enhance public transportation in the south district for environmental protection.,Environment,Parks and Recreation,In Progress,Low,2024-02-20 10:25:44.082748,756
+John Williams,john.williams@example.com,Request to improve school facilities in the south district for sustainable development.,Healthcare,Public Health,Under Review,Medium,2025-01-20 10:25:44.082748,690
+Jane Johnson,jane.johnson@example.com,Request to improve sidewalk repairs in the industrial zone for better quality of life.,Public Safety,Emergency Services,In Progress,Medium,2024-10-14 10:25:44.082748,314
+Robert Miller,robert.miller@example.com,Request to create small business support in the residential area to meet growing demands.,Infrastructure,Public Works,In Progress,Low,2024-02-21 10:25:44.082748,92
+Michael Garcia,michael.garcia@example.com,Request to renovate air quality in the business district to improve accessibility.,Public Safety,Public Safety,Resolved,Medium,2024-04-16 10:25:44.082748,270
+Robert Brown,robert.brown@example.com,Request to develop road maintenance in the downtown for better quality of life.,Environment,Environmental Protection,In Progress,Low,2024-12-25 10:25:44.082748,623
+Sarah Jones,sarah.jones@example.com,Request to expand public safety in the north district for future generations.,Economic Development,Economic Development,In Progress,High,2024-11-23 10:25:44.082748,889
+John Davis,john.davis@example.com,Request to establish school facilities in the east side to ensure public safety.,Healthcare,Health Services,Under Review,High,2025-01-27 10:25:44.082748,310
+Michael Davis,michael.davis@example.com,Request to develop park facilities in the downtown to meet growing demands.,Environment,Environmental Protection,In Progress,Low,2024-03-08 10:25:44.082748,627
+Robert Williams,robert.williams@example.com,Request to enhance street lighting in the suburban area for better quality of life.,Infrastructure,Public Works,Under Review,Low,2025-01-30 10:25:44.082748,470
+Lisa Williams,lisa.williams@example.com,Request to expand community centers in the industrial zone for community development.,Economic Development,Business Relations,In Progress,Low,2025-02-02 10:25:44.082748,805
+Sarah Miller,sarah.miller@example.com,Request to establish small business support in the industrial zone for environmental protection.,Public Safety,Emergency Services,Resolved,Low,2024-04-20 10:25:44.082748,494
+Jane Jones,jane.jones@example.com,Request to renovate street lighting in the west side to address resident concerns.,Environment,Parks and Recreation,Resolved,Low,2024-11-19 10:25:44.082748,256
+Lisa Brown,lisa.brown@example.com,Request to create air quality in the central area for future generations.,Community Services,Community Development,Resolved,Low,2024-03-06 10:25:44.082748,560
+Lisa Johnson,lisa.johnson@example.com,Request to expand waste management in the south district to improve accessibility.,Public Safety,Emergency Services,Rejected,Medium,2025-01-07 10:25:44.082748,652
+Emily Garcia,emily.garcia@example.com,Request to develop traffic signals in the north district to meet growing demands.,Transportation,Transportation,Resolved,Low,2024-07-17 10:25:44.082748,619
+Jane Miller,jane.miller@example.com,Request to establish public safety in the east side to improve accessibility.,Transportation,Transportation,In Progress,High,2024-03-02 10:25:44.082748,218
+Michael Jones,michael.jones@example.com,Request to maintain healthcare access in the west side for better quality of life.,Economic Development,Economic Development,Resolved,Low,2024-12-22 10:25:44.082748,834
+David Jones,david.jones@example.com,Request to establish senior services in the north district to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-07-30 10:25:44.082748,949
+Sarah Brown,sarah.brown@example.com,Request to upgrade affordable housing in the west side for community development.,Economic Development,Business Relations,Rejected,Medium,2025-01-08 10:25:44.082748,93
+Jane Davis,jane.davis@example.com,Request to establish parking facilities in the north district to ensure public safety.,Environment,Environmental Protection,In Progress,High,2024-02-27 10:25:44.082748,856
+Lisa Brown,lisa.brown@example.com,Request to maintain bike lanes in the south district for future generations.,Infrastructure,Public Works,In Progress,Low,2025-01-16 10:25:44.082748,997
+Michael Smith,michael.smith@example.com,Request to develop bike lanes in the central area for sustainable development.,Infrastructure,Public Works,In Progress,Low,2025-01-01 10:25:44.082748,305
+Lisa Miller,lisa.miller@example.com,Request to upgrade traffic signals in the residential area for environmental protection.,Public Safety,Emergency Services,Resolved,Medium,2024-07-09 10:25:44.082748,787
+Sarah Miller,sarah.miller@example.com,Request to renovate school facilities in the residential area for environmental protection.,Infrastructure,City Planning,Rejected,Low,2024-12-19 10:25:44.082748,974
+Emily Miller,emily.miller@example.com,Request to develop school facilities in the suburban area for better quality of life.,Infrastructure,Public Works,Under Review,Low,2025-01-28 10:25:44.082748,80
+Robert Smith,robert.smith@example.com,Request to maintain senior services in the business district to address resident concerns.,Education,Education,Under Review,Low,2025-02-13 10:25:44.082748,280
+Jane Smith,jane.smith@example.com,Request to create senior services in the industrial zone to ensure public safety.,Public Safety,Public Safety,Resolved,High,2024-06-21 10:25:44.082748,376
+Jane Brown,jane.brown@example.com,Request to establish small business support in the east side to address resident concerns.,Education,Education,Rejected,Low,2024-11-24 10:25:44.082748,829
+John Miller,john.miller@example.com,Request to create street lighting in the downtown to support local economy.,Infrastructure,City Planning,In Progress,Low,2024-09-28 10:25:44.082748,625
+Robert Johnson,robert.johnson@example.com,Request to develop small business support in the east side to support local economy.,Education,Youth Services,In Progress,Low,2025-01-20 10:25:44.082748,595
+Jane Garcia,jane.garcia@example.com,Request to establish air quality in the downtown for future generations.,Transportation,Traffic Management,Resolved,Low,2024-06-09 10:25:44.082748,381
+Michael Williams,michael.williams@example.com,Request to create parking facilities in the west side for future generations.,Economic Development,Economic Development,Resolved,Low,2025-01-01 10:25:44.082748,343
+Emily Smith,emily.smith@example.com,Request to upgrade noise pollution in the business district to address resident concerns.,Infrastructure,Public Works,In Progress,Medium,2024-12-19 10:25:44.082748,196
+Jane Williams,jane.williams@example.com,Request to expand public transportation in the central area to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-12-30 10:25:44.082748,14
+Sarah Smith,sarah.smith@example.com,Request to implement senior services in the south district to improve accessibility.,Infrastructure,City Planning,In Progress,Medium,2025-01-31 10:25:44.082748,563
+Lisa Jones,lisa.jones@example.com,Request to establish traffic signals in the south district to ensure public safety.,Healthcare,Public Health,Resolved,High,2024-09-30 10:25:44.082748,491
+David Johnson,david.johnson@example.com,Request to expand water supply in the business district to support local economy.,Infrastructure,Public Works,In Progress,Low,2024-12-15 10:25:44.082748,397
+Jane Garcia,jane.garcia@example.com,Request to expand waste management in the suburban area for community development.,Environment,Parks and Recreation,In Progress,Low,2024-07-03 10:25:44.082748,119
+Robert Jones,robert.jones@example.com,Request to create healthcare access in the east side to meet growing demands.,Education,Youth Services,Resolved,Low,2024-10-28 10:25:44.082748,910
+Lisa Davis,lisa.davis@example.com,Request to create park facilities in the north district to support local economy.,Public Safety,Emergency Services,Rejected,Low,2024-09-12 10:25:44.082748,488
+Emily Miller,emily.miller@example.com,Request to develop bike lanes in the business district to address resident concerns.,Infrastructure,City Planning,Resolved,Low,2024-07-08 10:25:44.082748,690
+Lisa Smith,lisa.smith@example.com,Request to maintain bike lanes in the residential area for better quality of life.,Infrastructure,Public Works,Rejected,Low,2024-03-14 10:25:44.082748,569
+Michael Davis,michael.davis@example.com,Request to improve affordable housing in the residential area to improve accessibility.,Education,Education,Rejected,Medium,2024-04-05 10:25:44.082748,511
+Sarah Jones,sarah.jones@example.com,Request to create bike lanes in the north district to ensure public safety.,Education,Education,Resolved,High,2024-10-22 10:25:44.082748,334
+Emily Davis,emily.davis@example.com,Request to expand park facilities in the downtown for sustainable development.,Infrastructure,City Planning,Resolved,Low,2025-01-13 10:25:44.082748,829
+Robert Davis,robert.davis@example.com,Request to implement community centers in the downtown to address resident concerns.,Transportation,Traffic Management,Resolved,Low,2024-10-07 10:25:44.082748,805
+Jane Jones,jane.jones@example.com,Request to develop park facilities in the south district to support local economy.,Education,Youth Services,In Progress,Low,2024-12-24 10:25:44.082748,828
+Sarah Garcia,sarah.garcia@example.com,Request to upgrade sidewalk repairs in the downtown to meet growing demands.,Environment,Parks and Recreation,Resolved,Medium,2024-08-23 10:25:44.082748,900
+Jane Jones,jane.jones@example.com,Request to create street lighting in the industrial zone to address resident concerns.,Public Safety,Emergency Services,In Progress,Low,2024-05-10 10:25:44.082748,10
+David Garcia,david.garcia@example.com,Request to develop air quality in the business district for future generations.,Public Safety,Emergency Services,Resolved,Low,2024-07-02 10:25:44.082748,15
+Robert Brown,robert.brown@example.com,Request to expand sidewalk repairs in the business district for sustainable development.,Education,Youth Services,Resolved,Low,2024-12-30 10:25:44.082748,336
+Robert Garcia,robert.garcia@example.com,Request to maintain community centers in the suburban area for future generations.,Healthcare,Health Services,Resolved,Low,2024-09-06 10:25:44.082748,855
+Michael Brown,michael.brown@example.com,Request to renovate noise pollution in the residential area to address resident concerns.,Environment,Environmental Protection,Resolved,Low,2024-10-20 10:25:44.082748,753
+Emily Williams,emily.williams@example.com,Request to enhance community centers in the suburban area to improve accessibility.,Public Safety,Emergency Services,Resolved,Medium,2024-09-10 10:25:44.082748,153
+Emily Brown,emily.brown@example.com,Request to develop noise pollution in the central area to support local economy.,Environment,Environmental Protection,In Progress,Low,2025-01-29 10:25:44.082748,711
+Jane Smith,jane.smith@example.com,Request to expand noise pollution in the downtown for better quality of life.,Public Safety,Emergency Services,Resolved,Low,2024-07-11 10:25:44.082748,23
+Lisa Williams,lisa.williams@example.com,Request to expand public safety in the east side to improve accessibility.,Environment,Parks and Recreation,Resolved,High,2024-03-11 10:25:44.082748,522
+Robert Williams,robert.williams@example.com,Request to expand bike lanes in the industrial zone to address resident concerns.,Community Services,Community Development,Resolved,Low,2024-10-22 10:25:44.082748,756
+Jane Brown,jane.brown@example.com,Request to implement school facilities in the residential area to meet growing demands.,Education,Youth Services,Resolved,Low,2024-12-19 10:25:44.082748,6
+Lisa Johnson,lisa.johnson@example.com,Request to implement small business support in the suburban area for sustainable development.,Transportation,Traffic Management,Resolved,Low,2024-03-01 10:25:44.082748,317
+Michael Jones,michael.jones@example.com,Request to upgrade park facilities in the central area to support local economy.,Healthcare,Health Services,Resolved,Medium,2024-11-19 10:25:44.082748,380
+John Davis,john.davis@example.com,Request to improve noise pollution in the residential area to ensure public safety.,Environment,Parks and Recreation,Rejected,High,2025-01-13 10:25:44.082748,201
+Jane Miller,jane.miller@example.com,Request to establish street lighting in the west side to meet growing demands.,Public Safety,Emergency Services,Resolved,Low,2024-02-27 10:25:44.082748,38
+Robert Williams,robert.williams@example.com,Request to establish water supply in the south district to address resident concerns.,Environment,Parks and Recreation,Under Review,Low,2025-01-17 10:25:44.082748,393
+Emily Miller,emily.miller@example.com,Request to expand air quality in the west side to ensure public safety.,Community Services,Community Development,In Progress,High,2024-12-15 10:25:44.082748,127
+Jane Garcia,jane.garcia@example.com,Request to enhance public safety in the west side to ensure public safety.,Community Services,Social Services,In Progress,High,2024-11-21 10:25:44.082748,176
+Lisa Williams,lisa.williams@example.com,Request to maintain traffic signals in the east side to improve accessibility.,Environment,Parks and Recreation,Resolved,Medium,2024-11-07 10:25:44.082748,25
+Sarah Smith,sarah.smith@example.com,Request to develop school facilities in the west side to ensure public safety.,Public Safety,Emergency Services,Resolved,High,2024-09-26 10:25:44.082748,655
+Robert Smith,robert.smith@example.com,Request to renovate sidewalk repairs in the south district to ensure public safety.,Education,Education,Resolved,High,2024-07-19 10:25:44.082748,726
+Robert Williams,robert.williams@example.com,Request to implement bike lanes in the west side to improve accessibility.,Environment,Parks and Recreation,Resolved,Medium,2024-12-10 10:25:44.082748,98
+John Williams,john.williams@example.com,Request to upgrade healthcare access in the east side to support local economy.,Infrastructure,City Planning,Resolved,Medium,2024-11-24 10:25:44.082748,479
+Michael Garcia,michael.garcia@example.com,Request to expand affordable housing in the industrial zone to meet growing demands.,Education,Education,Resolved,Low,2024-08-28 10:25:44.082748,945
+Sarah Miller,sarah.miller@example.com,Request to develop small business support in the east side to meet growing demands.,Community Services,Social Services,In Progress,Low,2024-05-08 10:25:44.082748,102
+Sarah Williams,sarah.williams@example.com,Request to establish senior services in the business district to address resident concerns.,Public Safety,Public Safety,Resolved,Low,2024-10-11 10:25:44.082748,557
+John Garcia,john.garcia@example.com,Request to enhance road maintenance in the east side to improve accessibility.,Economic Development,Economic Development,In Progress,Medium,2024-05-14 10:25:44.082748,269
+Emily Miller,emily.miller@example.com,Request to expand park facilities in the south district for future generations.,Infrastructure,Public Works,In Progress,Low,2024-12-14 10:25:44.082748,446
+David Smith,david.smith@example.com,Request to implement community centers in the west side to support local economy.,Public Safety,Emergency Services,In Progress,Low,2024-11-11 10:25:44.082748,758
+Jane Johnson,jane.johnson@example.com,Request to upgrade youth programs in the business district to meet growing demands.,Public Safety,Public Safety,Resolved,Medium,2024-03-27 10:25:44.082748,874
+Sarah Smith,sarah.smith@example.com,Request to upgrade school facilities in the east side to improve accessibility.,Infrastructure,Public Works,Rejected,Medium,2024-03-14 10:25:44.082748,311
+Jane Davis,jane.davis@example.com,Request to create youth programs in the residential area for future generations.,Education,Youth Services,In Progress,Low,2024-10-13 10:25:44.082748,32
+Michael Garcia,michael.garcia@example.com,Request to expand small business support in the industrial zone for community development.,Healthcare,Public Health,Resolved,Low,2024-04-17 10:25:44.082748,106
+Michael Garcia,michael.garcia@example.com,Request to maintain senior services in the industrial zone for sustainable development.,Community Services,Social Services,Resolved,Low,2024-10-20 10:25:44.082748,982
+Michael Jones,michael.jones@example.com,Request to renovate healthcare access in the business district to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-11-30 10:25:44.082748,328
+John Jones,john.jones@example.com,Request to develop public transportation in the suburban area for community development.,Infrastructure,City Planning,Rejected,Low,2024-12-07 10:25:44.082748,731
+Emily Brown,emily.brown@example.com,Request to renovate public transportation in the suburban area for sustainable development.,Economic Development,Business Relations,Resolved,Low,2024-11-15 10:25:44.082748,684
+Lisa Miller,lisa.miller@example.com,Request to create air quality in the north district for environmental protection.,Infrastructure,City Planning,In Progress,Low,2024-09-23 10:25:44.082748,11
+Robert Johnson,robert.johnson@example.com,Request to upgrade healthcare access in the north district for sustainable development.,Transportation,Traffic Management,In Progress,Medium,2024-09-15 10:25:44.082748,559
+Robert Davis,robert.davis@example.com,Request to improve air quality in the south district to improve accessibility.,Public Safety,Emergency Services,In Progress,Medium,2024-12-04 10:25:44.082748,444
+Jane Miller,jane.miller@example.com,Request to enhance traffic signals in the suburban area to improve accessibility.,Community Services,Community Development,Resolved,Medium,2024-08-12 10:25:44.082748,972
+John Davis,john.davis@example.com,Request to maintain street lighting in the downtown to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2024-12-19 10:25:44.082748,371
+David Brown,david.brown@example.com,Request to implement park facilities in the west side to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-12-17 10:25:44.082748,436
+Robert Johnson,robert.johnson@example.com,Request to create public safety in the east side to meet growing demands.,Infrastructure,City Planning,In Progress,High,2024-02-24 10:25:44.082748,536
+Michael Williams,michael.williams@example.com,Request to expand affordable housing in the north district for sustainable development.,Environment,Parks and Recreation,In Progress,Low,2024-08-01 10:25:44.082748,315
+Sarah Brown,sarah.brown@example.com,Request to maintain air quality in the west side for environmental protection.,Education,Education,Resolved,Low,2024-05-17 10:25:44.082748,442
+David Garcia,david.garcia@example.com,Request to enhance water supply in the south district for future generations.,Community Services,Social Services,Resolved,Low,2024-05-18 10:25:44.082748,569
+Emily Smith,emily.smith@example.com,Request to upgrade school facilities in the west side to address resident concerns.,Environment,Parks and Recreation,Resolved,Medium,2024-03-10 10:25:44.082748,301
+Sarah Garcia,sarah.garcia@example.com,Request to develop waste management in the east side for community development.,Public Safety,Public Safety,In Progress,Low,2024-07-12 10:25:44.082748,165
+Sarah Miller,sarah.miller@example.com,Request to renovate park facilities in the residential area to support local economy.,Healthcare,Public Health,Resolved,Low,2024-10-19 10:25:44.082748,161
+John Garcia,john.garcia@example.com,Request to establish community centers in the suburban area to meet growing demands.,Education,Education,Resolved,Low,2024-12-14 10:25:44.082748,779
+Sarah Garcia,sarah.garcia@example.com,Request to improve sidewalk repairs in the downtown for future generations.,Public Safety,Public Safety,In Progress,Medium,2024-10-14 10:25:44.082748,307
+David Miller,david.miller@example.com,Request to expand waste management in the suburban area to meet growing demands.,Infrastructure,City Planning,Resolved,Low,2024-04-13 10:25:44.082748,840
+Jane Davis,jane.davis@example.com,Request to expand water supply in the downtown for sustainable development.,Infrastructure,City Planning,In Progress,Low,2024-08-03 10:25:44.082748,718
+Michael Williams,michael.williams@example.com,Request to upgrade park facilities in the west side for community development.,Education,Education,In Progress,Medium,2024-12-26 10:25:44.082748,537
+John Brown,john.brown@example.com,Request to renovate parking facilities in the industrial zone for environmental protection.,Infrastructure,Public Works,Resolved,Low,2024-04-06 10:25:44.082748,295
+Jane Davis,jane.davis@example.com,Request to create public transportation in the central area to ensure public safety.,Public Safety,Emergency Services,Resolved,High,2024-04-09 10:25:44.082748,298
+Sarah Brown,sarah.brown@example.com,Request to expand affordable housing in the north district to meet growing demands.,Public Safety,Emergency Services,In Progress,Low,2024-09-12 10:25:44.082748,892
+John Davis,john.davis@example.com,Request to improve street lighting in the north district for environmental protection.,Infrastructure,Public Works,Resolved,Medium,2024-12-08 10:25:44.082748,694
+Lisa Miller,lisa.miller@example.com,Request to create street lighting in the central area to meet growing demands.,Community Services,Social Services,In Progress,Low,2024-12-22 10:25:44.082748,413
+Sarah Jones,sarah.jones@example.com,Request to create waste management in the residential area to improve accessibility.,Environment,Environmental Protection,Resolved,Medium,2024-07-25 10:25:44.082748,621
+Jane Davis,jane.davis@example.com,Request to create sidewalk repairs in the downtown for future generations.,Education,Education,Resolved,Low,2024-06-02 10:25:44.082748,642
+Michael Williams,michael.williams@example.com,Request to upgrade road maintenance in the east side to ensure public safety.,Community Services,Social Services,Resolved,High,2024-02-20 10:25:44.082748,538
+David Johnson,david.johnson@example.com,Request to expand traffic signals in the industrial zone to support local economy.,Infrastructure,City Planning,Resolved,Low,2024-11-02 10:25:44.082748,990
+David Smith,david.smith@example.com,Request to implement healthcare access in the downtown to ensure public safety.,Education,Youth Services,In Progress,High,2024-03-18 10:25:44.082748,719
+Sarah Johnson,sarah.johnson@example.com,Request to develop youth programs in the industrial zone to support local economy.,Public Safety,Emergency Services,Resolved,Low,2024-05-09 10:25:44.082748,609
+Robert Jones,robert.jones@example.com,Request to create road maintenance in the suburban area to meet growing demands.,Infrastructure,City Planning,Under Review,Low,2025-02-01 10:25:44.082748,106
+Jane Garcia,jane.garcia@example.com,Request to expand park facilities in the industrial zone for better quality of life.,Infrastructure,City Planning,In Progress,Low,2024-11-20 10:25:44.082748,105
+Lisa Johnson,lisa.johnson@example.com,Request to implement park facilities in the south district for better quality of life.,Infrastructure,City Planning,In Progress,Low,2024-06-17 10:25:44.082748,423
+John Smith,john.smith@example.com,Request to establish healthcare access in the south district to support local economy.,Infrastructure,City Planning,Resolved,Low,2024-11-15 10:25:44.082748,651
+Jane Garcia,jane.garcia@example.com,Request to create public safety in the north district to support local economy.,Infrastructure,Public Works,Under Review,High,2025-02-13 10:25:44.082748,440
+David Garcia,david.garcia@example.com,Request to expand public transportation in the east side for better quality of life.,Infrastructure,City Planning,Resolved,Low,2024-03-25 10:25:44.082748,126
+John Johnson,john.johnson@example.com,Request to renovate community centers in the industrial zone to improve accessibility.,Infrastructure,City Planning,Resolved,Medium,2024-06-25 10:25:44.082748,588
+Michael Smith,michael.smith@example.com,Request to improve small business support in the east side to address resident concerns.,Infrastructure,Public Works,In Progress,Medium,2024-12-09 10:25:44.082748,51
+Emily Brown,emily.brown@example.com,Request to renovate bike lanes in the business district to address resident concerns.,Public Safety,Public Safety,Resolved,Low,2024-04-20 10:25:44.082748,102
+Robert Jones,robert.jones@example.com,Request to expand public transportation in the business district for better quality of life.,Transportation,Traffic Management,In Progress,Low,2024-11-26 10:25:44.082748,142
+Jane Jones,jane.jones@example.com,Request to renovate air quality in the west side to address resident concerns.,Public Safety,Emergency Services,Resolved,Low,2024-06-05 10:25:44.082748,267
+Jane Garcia,jane.garcia@example.com,Request to develop sidewalk repairs in the north district to ensure public safety.,Public Safety,Emergency Services,Rejected,High,2024-12-07 10:25:44.082748,539
+Emily Garcia,emily.garcia@example.com,Request to enhance senior services in the south district for environmental protection.,Economic Development,Economic Development,Resolved,Low,2024-05-17 10:25:44.082748,32
+Jane Brown,jane.brown@example.com,Request to improve parking facilities in the central area to support local economy.,Education,Youth Services,Resolved,Medium,2024-09-14 10:25:44.082748,382
+Emily Brown,emily.brown@example.com,Request to establish public transportation in the suburban area for better quality of life.,Healthcare,Public Health,Resolved,Low,2024-07-17 10:25:44.082748,213
+Jane Miller,jane.miller@example.com,Request to develop sidewalk repairs in the north district to support local economy.,Environment,Parks and Recreation,Rejected,Low,2024-12-26 10:25:44.082748,533
+Lisa Davis,lisa.davis@example.com,Request to develop air quality in the south district to meet growing demands.,Economic Development,Business Relations,Rejected,Low,2024-04-29 10:25:44.082748,554
+Jane Brown,jane.brown@example.com,Request to develop affordable housing in the downtown for community development.,Environment,Environmental Protection,Resolved,Low,2024-07-17 10:25:44.082748,255
+Lisa Smith,lisa.smith@example.com,Request to expand bike lanes in the central area for future generations.,Transportation,Traffic Management,In Progress,Low,2024-07-29 10:25:44.082748,810
+Michael Smith,michael.smith@example.com,Request to create noise pollution in the west side for sustainable development.,Infrastructure,Public Works,In Progress,Low,2024-03-05 10:25:44.082748,581
+Emily Davis,emily.davis@example.com,Request to develop street lighting in the industrial zone for future generations.,Transportation,Transportation,Resolved,Low,2024-04-08 10:25:44.082748,91
+John Brown,john.brown@example.com,Request to develop youth programs in the residential area for environmental protection.,Environment,Parks and Recreation,In Progress,Low,2024-11-30 10:25:44.082748,534
+Sarah Jones,sarah.jones@example.com,Request to create school facilities in the business district for future generations.,Public Safety,Emergency Services,Rejected,Low,2025-01-10 10:25:44.082748,70
+Jane Garcia,jane.garcia@example.com,Request to implement public safety in the west side for sustainable development.,Transportation,Traffic Management,In Progress,High,2025-01-03 10:25:44.082748,767
+Robert Brown,robert.brown@example.com,Request to enhance public safety in the downtown to ensure public safety.,Infrastructure,Public Works,In Progress,High,2024-06-07 10:25:44.082748,86
+Michael Garcia,michael.garcia@example.com,Request to maintain park facilities in the suburban area for better quality of life.,Public Safety,Emergency Services,In Progress,Low,2024-10-05 10:25:44.082748,856
+John Smith,john.smith@example.com,Request to establish water supply in the central area for sustainable development.,Public Safety,Emergency Services,Resolved,Low,2024-09-12 10:25:44.082748,233
+Michael Smith,michael.smith@example.com,Request to upgrade parking facilities in the south district for better quality of life.,Public Safety,Public Safety,Resolved,Medium,2024-11-18 10:25:44.082748,231
+Robert Garcia,robert.garcia@example.com,Request to improve community centers in the suburban area for sustainable development.,Transportation,Transportation,In Progress,Medium,2025-01-08 10:25:44.082748,383
+Robert Brown,robert.brown@example.com,Request to expand water supply in the residential area to address resident concerns.,Infrastructure,Public Works,In Progress,Low,2024-07-22 10:25:44.082748,796
+Sarah Smith,sarah.smith@example.com,Request to establish parking facilities in the south district for environmental protection.,Infrastructure,City Planning,Resolved,Low,2024-06-13 10:25:44.082748,940
+Lisa Jones,lisa.jones@example.com,Request to expand air quality in the suburban area to meet growing demands.,Infrastructure,Public Works,Resolved,Low,2025-01-07 10:25:44.082748,224
+Lisa Miller,lisa.miller@example.com,Request to maintain noise pollution in the business district to meet growing demands.,Infrastructure,City Planning,Under Review,Low,2025-01-29 10:25:44.082748,110
+John Jones,john.jones@example.com,Request to enhance bike lanes in the central area to meet growing demands.,Transportation,Transportation,Rejected,Low,2024-03-01 10:25:44.082748,675
+Lisa Garcia,lisa.garcia@example.com,Request to improve public transportation in the north district for better quality of life.,Education,Youth Services,Rejected,Medium,2024-12-05 10:25:44.082748,271
+Robert Garcia,robert.garcia@example.com,Request to enhance public transportation in the industrial zone for community development.,Healthcare,Public Health,Resolved,Low,2024-06-04 10:25:44.082748,460
+Jane Brown,jane.brown@example.com,Request to implement senior services in the residential area to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-08-27 10:25:44.082748,211
+Emily Miller,emily.miller@example.com,Request to improve senior services in the west side to ensure public safety.,Infrastructure,Public Works,In Progress,High,2024-10-03 10:25:44.082748,996
+John Williams,john.williams@example.com,Request to implement senior services in the residential area to meet growing demands.,Community Services,Community Development,In Progress,Low,2024-11-22 10:25:44.082748,14
+David Williams,david.williams@example.com,Request to implement water supply in the industrial zone to improve accessibility.,Infrastructure,City Planning,Under Review,Medium,2025-02-14 10:25:44.082748,884
+Emily Brown,emily.brown@example.com,Request to expand traffic signals in the downtown for better quality of life.,Public Safety,Emergency Services,In Progress,Low,2024-06-29 10:25:44.082748,633
+Robert Johnson,robert.johnson@example.com,Request to upgrade water supply in the west side for better quality of life.,Transportation,Traffic Management,In Progress,Medium,2024-06-29 10:25:44.082748,649
+Jane Smith,jane.smith@example.com,Request to establish small business support in the suburban area to ensure public safety.,Education,Education,In Progress,High,2024-04-18 10:25:44.082748,844
+Lisa Johnson,lisa.johnson@example.com,Request to implement healthcare access in the north district for environmental protection.,Infrastructure,Public Works,Resolved,Low,2024-11-20 10:25:44.082748,669
+Michael Johnson,michael.johnson@example.com,Request to implement road maintenance in the west side for future generations.,Healthcare,Public Health,In Progress,Low,2024-03-28 10:25:44.082748,224
+Jane Jones,jane.jones@example.com,Request to establish water supply in the downtown to ensure public safety.,Environment,Parks and Recreation,In Progress,High,2024-11-29 10:25:44.082748,696
+David Garcia,david.garcia@example.com,Request to renovate noise pollution in the downtown for future generations.,Infrastructure,City Planning,In Progress,Low,2024-09-17 10:25:44.082748,648
+Sarah Jones,sarah.jones@example.com,Request to expand healthcare access in the south district to improve accessibility.,Community Services,Social Services,In Progress,Medium,2024-05-05 10:25:44.082748,497
+Robert Garcia,robert.garcia@example.com,Request to develop healthcare access in the downtown to support local economy.,Public Safety,Emergency Services,Resolved,Low,2024-09-02 10:25:44.082748,769
+Lisa Williams,lisa.williams@example.com,Request to enhance affordable housing in the suburban area to support local economy.,Infrastructure,Public Works,In Progress,Low,2024-11-18 10:25:44.082748,304
+Michael Davis,michael.davis@example.com,Request to upgrade bike lanes in the industrial zone to improve accessibility.,Transportation,Traffic Management,Resolved,Medium,2024-07-15 10:25:44.082748,796
+Michael Johnson,michael.johnson@example.com,Request to improve waste management in the residential area for sustainable development.,Public Safety,Public Safety,In Progress,Medium,2024-11-30 10:25:44.082748,419
+Jane Williams,jane.williams@example.com,Request to improve small business support in the north district for better quality of life.,Healthcare,Public Health,Resolved,Medium,2024-09-10 10:25:44.082748,966
+John Jones,john.jones@example.com,Request to upgrade youth programs in the west side to support local economy.,Community Services,Social Services,Resolved,Medium,2024-03-29 10:25:44.082748,946
+Sarah Jones,sarah.jones@example.com,Request to develop traffic signals in the north district to support local economy.,Healthcare,Health Services,Resolved,Low,2024-02-21 10:25:44.082748,160
+Sarah Smith,sarah.smith@example.com,Request to create park facilities in the central area to ensure public safety.,Infrastructure,City Planning,Under Review,High,2025-02-07 10:25:44.082748,58
+Robert Brown,robert.brown@example.com,Request to renovate small business support in the south district for future generations.,Environment,Parks and Recreation,In Progress,Low,2024-09-23 10:25:44.082748,985
+David Smith,david.smith@example.com,Request to expand waste management in the suburban area to address resident concerns.,Community Services,Community Development,Resolved,Low,2024-10-14 10:25:44.082748,98
+David Miller,david.miller@example.com,Request to improve parking facilities in the downtown to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-06-17 10:25:44.082748,463
+John Brown,john.brown@example.com,Request to improve small business support in the south district to address resident concerns.,Transportation,Traffic Management,Resolved,Medium,2024-04-07 10:25:44.082748,362
+John Garcia,john.garcia@example.com,Request to establish air quality in the central area to meet growing demands.,Community Services,Social Services,Resolved,Low,2024-10-20 10:25:44.082748,794
+Jane Smith,jane.smith@example.com,Request to establish affordable housing in the west side for future generations.,Healthcare,Public Health,Resolved,Low,2024-10-22 10:25:44.082748,857
+David Williams,david.williams@example.com,Request to maintain public transportation in the south district for better quality of life.,Education,Education,Resolved,Low,2024-10-23 10:25:44.082748,711
+David Garcia,david.garcia@example.com,Request to develop healthcare access in the industrial zone to address resident concerns.,Infrastructure,City Planning,Rejected,Low,2024-03-26 10:25:44.082748,228
+Jane Johnson,jane.johnson@example.com,Request to expand air quality in the residential area to improve accessibility.,Public Safety,Public Safety,Resolved,Medium,2024-10-13 10:25:44.082748,821
+David Garcia,david.garcia@example.com,Request to maintain water supply in the residential area for community development.,Environment,Parks and Recreation,In Progress,Low,2024-09-12 10:25:44.082748,916
+John Williams,john.williams@example.com,Request to develop youth programs in the central area to support local economy.,Healthcare,Public Health,Resolved,Low,2025-01-11 10:25:44.082748,754
+Jane Davis,jane.davis@example.com,Request to implement community centers in the central area to improve accessibility.,Environment,Environmental Protection,Resolved,Medium,2024-06-09 10:25:44.082748,345
+Robert Davis,robert.davis@example.com,Request to create water supply in the industrial zone to improve accessibility.,Education,Education,Resolved,Medium,2024-11-13 10:25:44.082748,236
+David Davis,david.davis@example.com,Request to enhance public safety in the residential area to address resident concerns.,Transportation,Traffic Management,In Progress,High,2024-03-02 10:25:44.082748,519
+David Jones,david.jones@example.com,Request to enhance water supply in the residential area to ensure public safety.,Education,Youth Services,Resolved,High,2024-12-11 10:25:44.082748,827
+Michael Williams,michael.williams@example.com,Request to create school facilities in the downtown to ensure public safety.,Environment,Environmental Protection,Resolved,High,2024-11-12 10:25:44.082748,754
+John Davis,john.davis@example.com,Request to develop air quality in the business district for better quality of life.,Healthcare,Health Services,Resolved,Low,2024-02-26 10:25:44.082748,2
+Emily Miller,emily.miller@example.com,Request to upgrade public safety in the business district to meet growing demands.,Economic Development,Economic Development,Resolved,High,2024-12-24 10:25:44.082748,727
+Robert Williams,robert.williams@example.com,Request to expand park facilities in the north district for better quality of life.,Public Safety,Public Safety,Resolved,Low,2024-09-25 10:25:44.082748,383
+Michael Brown,michael.brown@example.com,Request to establish air quality in the industrial zone to meet growing demands.,Transportation,Traffic Management,Resolved,Low,2024-09-27 10:25:44.082748,953
+John Johnson,john.johnson@example.com,Request to maintain bike lanes in the suburban area to ensure public safety.,Public Safety,Emergency Services,Resolved,High,2024-12-17 10:25:44.082748,24
+Robert Smith,robert.smith@example.com,Request to establish small business support in the business district to ensure public safety.,Infrastructure,City Planning,Resolved,High,2024-09-28 10:25:44.082748,249
+Michael Jones,michael.jones@example.com,Request to maintain school facilities in the business district for community development.,Infrastructure,City Planning,In Progress,Low,2024-09-06 10:25:44.082748,971
+John Johnson,john.johnson@example.com,Request to establish air quality in the suburban area for community development.,Public Safety,Public Safety,Resolved,Low,2024-03-31 10:25:44.082748,616
+Sarah Jones,sarah.jones@example.com,Request to upgrade street lighting in the business district for community development.,Transportation,Transportation,In Progress,Medium,2024-08-07 10:25:44.082748,195
+Sarah Garcia,sarah.garcia@example.com,Request to improve senior services in the east side to meet growing demands.,Public Safety,Public Safety,Resolved,Medium,2024-08-30 10:25:44.082748,976
+David Garcia,david.garcia@example.com,Request to renovate public safety in the central area to improve accessibility.,Environment,Parks and Recreation,Resolved,High,2024-06-28 10:25:44.082748,513
+Sarah Brown,sarah.brown@example.com,Request to improve street lighting in the industrial zone to meet growing demands.,Infrastructure,Public Works,Resolved,Medium,2024-05-17 10:25:44.082748,675
+Lisa Brown,lisa.brown@example.com,Request to implement senior services in the suburban area to meet growing demands.,Public Safety,Public Safety,Resolved,Low,2024-07-09 10:25:44.082748,179
+David Miller,david.miller@example.com,Request to renovate healthcare access in the business district for better quality of life.,Infrastructure,City Planning,In Progress,Low,2024-12-30 10:25:44.082748,971
+Michael Miller,michael.miller@example.com,Request to maintain traffic signals in the industrial zone to support local economy.,Healthcare,Health Services,Resolved,Low,2024-10-05 10:25:44.082748,451
+Lisa Davis,lisa.davis@example.com,Request to expand street lighting in the central area to meet growing demands.,Environment,Environmental Protection,Resolved,Low,2024-03-14 10:25:44.082748,557
+David Miller,david.miller@example.com,Request to enhance parking facilities in the residential area to meet growing demands.,Transportation,Traffic Management,Resolved,Low,2024-10-18 10:25:44.082748,581
+Lisa Smith,lisa.smith@example.com,Request to establish waste management in the suburban area to improve accessibility.,Infrastructure,City Planning,Resolved,Medium,2024-07-04 10:25:44.082748,269
+David Davis,david.davis@example.com,Request to create senior services in the business district for community development.,Transportation,Transportation,Resolved,Low,2024-10-02 10:25:44.082748,483
+Lisa Jones,lisa.jones@example.com,Request to develop sidewalk repairs in the residential area for future generations.,Education,Youth Services,Resolved,Low,2024-12-21 10:25:44.082748,958
+Emily Garcia,emily.garcia@example.com,Request to maintain healthcare access in the south district for environmental protection.,Public Safety,Public Safety,Resolved,Low,2025-01-08 10:25:44.082748,744
+Lisa Williams,lisa.williams@example.com,Request to renovate parking facilities in the east side to improve accessibility.,Public Safety,Public Safety,In Progress,Medium,2025-01-14 10:25:44.082748,77
+David Garcia,david.garcia@example.com,Request to improve noise pollution in the residential area for environmental protection.,Environment,Parks and Recreation,Rejected,Medium,2024-06-15 10:25:44.082748,87
+John Garcia,john.garcia@example.com,Request to implement youth programs in the downtown to address resident concerns.,Public Safety,Emergency Services,In Progress,Low,2024-07-02 10:25:44.082748,378
+Michael Williams,michael.williams@example.com,Request to implement air quality in the residential area to address resident concerns.,Transportation,Traffic Management,Resolved,Low,2024-03-28 10:25:44.082748,41
+Robert Johnson,robert.johnson@example.com,Request to maintain waste management in the downtown to address resident concerns.,Transportation,Transportation,Resolved,Low,2024-03-15 10:25:44.082748,323
+Jane Johnson,jane.johnson@example.com,Request to enhance public transportation in the north district for better quality of life.,Infrastructure,Public Works,Resolved,Low,2024-07-04 10:25:44.082748,789
+Lisa Williams,lisa.williams@example.com,Request to implement air quality in the east side to meet growing demands.,Public Safety,Emergency Services,In Progress,Low,2024-09-18 10:25:44.082748,498
+Jane Davis,jane.davis@example.com,Request to upgrade school facilities in the residential area to support local economy.,Infrastructure,Public Works,Under Review,Medium,2025-01-24 10:25:44.082748,12
+Jane Jones,jane.jones@example.com,Request to expand public transportation in the business district for sustainable development.,Public Safety,Emergency Services,In Progress,Low,2024-05-31 10:25:44.082748,977
+Emily Smith,emily.smith@example.com,Request to renovate parking facilities in the business district to meet growing demands.,Infrastructure,Public Works,Resolved,Low,2024-03-02 10:25:44.082748,226
+Jane Williams,jane.williams@example.com,Request to develop street lighting in the business district to support local economy.,Environment,Parks and Recreation,Resolved,Low,2024-10-18 10:25:44.082748,911
+Emily Johnson,emily.johnson@example.com,Request to expand small business support in the central area for sustainable development.,Healthcare,Health Services,Under Review,Low,2025-02-02 10:25:44.082748,938
+Lisa Jones,lisa.jones@example.com,Request to implement public safety in the south district for sustainable development.,Education,Education,Resolved,High,2024-09-07 10:25:44.082748,477
+Emily Williams,emily.williams@example.com,Request to implement parking facilities in the south district to support local economy.,Healthcare,Public Health,Under Review,Low,2025-02-10 10:25:44.082748,685
+Lisa Johnson,lisa.johnson@example.com,Request to create public safety in the residential area for community development.,Infrastructure,Public Works,Resolved,High,2024-12-26 10:25:44.082748,633
+Jane Miller,jane.miller@example.com,Request to enhance air quality in the industrial zone for future generations.,Education,Education,In Progress,Low,2024-11-10 10:25:44.082748,752
+David Davis,david.davis@example.com,Request to implement public safety in the south district to address resident concerns.,Infrastructure,City Planning,Resolved,High,2025-01-04 10:25:44.082748,689
+John Johnson,john.johnson@example.com,Request to enhance street lighting in the east side for environmental protection.,Healthcare,Public Health,Resolved,Low,2024-02-23 10:25:44.082748,780
+Michael Davis,michael.davis@example.com,Request to develop noise pollution in the west side to support local economy.,Environment,Environmental Protection,Resolved,Low,2024-06-05 10:25:44.082748,695
+Lisa Miller,lisa.miller@example.com,Request to establish water supply in the business district to ensure public safety.,Economic Development,Business Relations,Resolved,High,2024-10-27 10:25:44.082748,892
+Robert Jones,robert.jones@example.com,Request to enhance bike lanes in the industrial zone for sustainable development.,Infrastructure,City Planning,Resolved,Low,2024-03-13 10:25:44.082748,924
+Lisa Johnson,lisa.johnson@example.com,Request to enhance school facilities in the west side to address resident concerns.,Public Safety,Public Safety,Resolved,Low,2024-03-23 10:25:44.082748,570
+John Jones,john.jones@example.com,Request to develop public transportation in the residential area to improve accessibility.,Healthcare,Public Health,Resolved,Medium,2024-08-26 10:25:44.082748,254
+David Williams,david.williams@example.com,Request to develop community centers in the south district to meet growing demands.,Community Services,Community Development,Rejected,Low,2024-04-19 10:25:44.082748,183
+David Davis,david.davis@example.com,Request to develop road maintenance in the north district for future generations.,Healthcare,Health Services,Resolved,Low,2024-07-29 10:25:44.082748,866
+Emily Garcia,emily.garcia@example.com,Request to expand public safety in the suburban area to support local economy.,Environment,Environmental Protection,In Progress,High,2024-05-08 10:25:44.082748,810
+David Miller,david.miller@example.com,Request to establish waste management in the east side for community development.,Healthcare,Health Services,Rejected,Low,2024-04-04 10:25:44.082748,300
+Jane Miller,jane.miller@example.com,Request to maintain parking facilities in the south district for future generations.,Healthcare,Public Health,Rejected,Low,2024-10-14 10:25:44.082748,787
+Sarah Garcia,sarah.garcia@example.com,Request to expand air quality in the downtown to improve accessibility.,Infrastructure,Public Works,In Progress,Medium,2024-08-01 10:25:44.082748,980
+Emily Davis,emily.davis@example.com,Request to develop park facilities in the west side for sustainable development.,Public Safety,Emergency Services,Under Review,Low,2025-02-07 10:25:44.082748,236
+Robert Miller,robert.miller@example.com,Request to improve public safety in the west side for better quality of life.,Environment,Parks and Recreation,In Progress,High,2024-04-11 10:25:44.082748,589
+John Davis,john.davis@example.com,Request to maintain traffic signals in the business district to meet growing demands.,Infrastructure,City Planning,In Progress,Low,2024-12-04 10:25:44.082748,240
+Robert Smith,robert.smith@example.com,Request to renovate senior services in the east side for better quality of life.,Education,Youth Services,In Progress,Low,2024-09-12 10:25:44.082748,470
+Sarah Davis,sarah.davis@example.com,Request to improve healthcare access in the central area for sustainable development.,Transportation,Traffic Management,Resolved,Medium,2024-10-06 10:25:44.082748,227
+John Williams,john.williams@example.com,Request to improve air quality in the south district to support local economy.,Transportation,Traffic Management,Resolved,Medium,2024-04-18 10:25:44.082748,980
+Sarah Garcia,sarah.garcia@example.com,Request to renovate public transportation in the business district for community development.,Environment,Environmental Protection,Resolved,Low,2024-02-23 10:25:44.082748,701
+Sarah Garcia,sarah.garcia@example.com,Request to renovate park facilities in the west side for environmental protection.,Public Safety,Public Safety,Resolved,Low,2024-08-27 10:25:44.082748,779
+John Williams,john.williams@example.com,Request to upgrade public transportation in the central area to meet growing demands.,Transportation,Transportation,Under Review,Medium,2025-02-01 10:25:44.082748,412
+Emily Jones,emily.jones@example.com,Request to implement public transportation in the industrial zone for sustainable development.,Infrastructure,Public Works,In Progress,Low,2024-07-27 10:25:44.082748,851
+David Jones,david.jones@example.com,Request to enhance youth programs in the industrial zone to address resident concerns.,Education,Youth Services,Resolved,Low,2024-05-09 10:25:44.082748,552
+Michael Davis,michael.davis@example.com,Request to establish community centers in the residential area to address resident concerns.,Education,Education,Under Review,Low,2025-01-21 10:25:44.082748,101
+John Garcia,john.garcia@example.com,Request to create school facilities in the south district for future generations.,Environment,Parks and Recreation,In Progress,Low,2024-09-08 10:25:44.082748,638
+Emily Jones,emily.jones@example.com,Request to enhance small business support in the north district to support local economy.,Environment,Environmental Protection,In Progress,Low,2025-01-10 10:25:44.082748,268
+Sarah Miller,sarah.miller@example.com,Request to develop public safety in the residential area to address resident concerns.,Infrastructure,City Planning,Resolved,High,2024-12-22 10:25:44.082748,146
+Michael Johnson,michael.johnson@example.com,Request to expand senior services in the west side for future generations.,Infrastructure,City Planning,In Progress,Low,2024-02-24 10:25:44.082748,179
+Lisa Davis,lisa.davis@example.com,Request to enhance public transportation in the south district for environmental protection.,Infrastructure,City Planning,In Progress,Low,2024-02-25 10:25:44.082748,912
+John Miller,john.miller@example.com,Request to expand public transportation in the north district for community development.,Economic Development,Economic Development,Resolved,Low,2024-09-15 10:25:44.082748,518
+Lisa Miller,lisa.miller@example.com,Request to upgrade noise pollution in the business district for future generations.,Community Services,Social Services,Resolved,Medium,2024-06-10 10:25:44.082748,191
+John Smith,john.smith@example.com,Request to improve road maintenance in the industrial zone for environmental protection.,Public Safety,Emergency Services,Resolved,Medium,2024-07-14 10:25:44.082748,519
+Jane Brown,jane.brown@example.com,Request to improve traffic signals in the industrial zone for sustainable development.,Environment,Parks and Recreation,Resolved,Medium,2024-05-27 10:25:44.082748,900
+Emily Miller,emily.miller@example.com,Request to enhance public transportation in the business district to improve accessibility.,Transportation,Traffic Management,Resolved,Medium,2024-12-05 10:25:44.082748,622
+John Brown,john.brown@example.com,Request to implement parking facilities in the downtown for future generations.,Education,Education,Resolved,Low,2024-04-15 10:25:44.082748,880
+Robert Williams,robert.williams@example.com,Request to renovate bike lanes in the east side for environmental protection.,Transportation,Transportation,In Progress,Low,2024-02-19 10:25:44.082748,197
+Robert Johnson,robert.johnson@example.com,Request to enhance healthcare access in the central area to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-02-25 10:25:44.082748,247
+Robert Brown,robert.brown@example.com,Request to implement sidewalk repairs in the east side to meet growing demands.,Transportation,Transportation,In Progress,Low,2024-08-27 10:25:44.082748,778
+John Smith,john.smith@example.com,Request to implement water supply in the north district for sustainable development.,Public Safety,Public Safety,Resolved,Low,2024-04-17 10:25:44.082748,509
+Robert Davis,robert.davis@example.com,Request to create healthcare access in the downtown for better quality of life.,Transportation,Transportation,In Progress,Low,2024-08-29 10:25:44.082748,909
+John Johnson,john.johnson@example.com,Request to implement public transportation in the business district to address resident concerns.,Economic Development,Business Relations,In Progress,Low,2024-03-24 10:25:44.082748,197
+Michael Miller,michael.miller@example.com,Request to renovate park facilities in the business district to improve accessibility.,Environment,Parks and Recreation,Resolved,Medium,2025-01-16 10:25:44.082748,737
+John Miller,john.miller@example.com,Request to improve parking facilities in the south district for future generations.,Transportation,Traffic Management,In Progress,Medium,2024-06-05 10:25:44.082748,69
+David Johnson,david.johnson@example.com,Request to create noise pollution in the south district to improve accessibility.,Education,Youth Services,Rejected,Medium,2024-11-18 10:25:44.082748,900
+John Williams,john.williams@example.com,Request to expand street lighting in the west side to ensure public safety.,Infrastructure,City Planning,In Progress,High,2024-05-23 10:25:44.082748,918
+David Jones,david.jones@example.com,Request to renovate youth programs in the central area for future generations.,Infrastructure,Public Works,Rejected,Low,2024-12-12 10:25:44.082748,928
+Jane Garcia,jane.garcia@example.com,Request to develop small business support in the residential area for better quality of life.,Infrastructure,City Planning,Resolved,Low,2024-04-11 10:25:44.082748,376
+John Jones,john.jones@example.com,Request to improve public safety in the industrial zone to support local economy.,Infrastructure,City Planning,Resolved,High,2024-07-06 10:25:44.082748,697
+Emily Garcia,emily.garcia@example.com,Request to expand street lighting in the west side to support local economy.,Community Services,Social Services,Resolved,Low,2024-05-07 10:25:44.082748,675
+Lisa Brown,lisa.brown@example.com,Request to enhance public safety in the central area to improve accessibility.,Infrastructure,Public Works,Resolved,High,2024-07-22 10:25:44.082748,225
+Robert Johnson,robert.johnson@example.com,Request to develop waste management in the industrial zone to improve accessibility.,Environment,Environmental Protection,In Progress,Medium,2025-02-11 10:25:44.082748,12
+Robert Davis,robert.davis@example.com,Request to develop healthcare access in the west side for sustainable development.,Infrastructure,Public Works,Resolved,Low,2024-12-07 10:25:44.082748,695
+Jane Johnson,jane.johnson@example.com,Request to enhance sidewalk repairs in the north district for environmental protection.,Healthcare,Health Services,Resolved,Low,2024-08-12 10:25:44.082748,311
+Sarah Garcia,sarah.garcia@example.com,Request to improve parking facilities in the north district to support local economy.,Transportation,Traffic Management,Rejected,Medium,2024-11-25 10:25:44.082748,972
+Jane Smith,jane.smith@example.com,Request to maintain street lighting in the north district to meet growing demands.,Healthcare,Health Services,Resolved,Low,2024-04-23 10:25:44.082748,250
+Lisa Johnson,lisa.johnson@example.com,Request to implement senior services in the east side to support local economy.,Community Services,Community Development,In Progress,Low,2024-10-09 10:25:44.082748,821
+Robert Davis,robert.davis@example.com,Request to create senior services in the business district for future generations.,Transportation,Transportation,Resolved,Low,2025-01-15 10:25:44.082748,740
+Sarah Johnson,sarah.johnson@example.com,Request to create public safety in the south district for community development.,Environment,Environmental Protection,Resolved,High,2024-04-09 10:25:44.082748,203
+Jane Brown,jane.brown@example.com,Request to establish affordable housing in the downtown to improve accessibility.,Infrastructure,Public Works,Resolved,Medium,2025-01-07 10:25:44.082748,960
+Emily Brown,emily.brown@example.com,Request to implement traffic signals in the business district for environmental protection.,Infrastructure,Public Works,Resolved,Low,2024-09-25 10:25:44.082748,170
+Robert Williams,robert.williams@example.com,Request to establish bike lanes in the downtown to address resident concerns.,Infrastructure,Public Works,In Progress,Low,2024-09-22 10:25:44.082748,365
+David Jones,david.jones@example.com,Request to create traffic signals in the residential area to support local economy.,Community Services,Social Services,Resolved,Low,2024-04-03 10:25:44.082748,25
+Michael Miller,michael.miller@example.com,Request to develop noise pollution in the industrial zone to improve accessibility.,Healthcare,Public Health,In Progress,Medium,2024-11-25 10:25:44.082748,754
+John Miller,john.miller@example.com,Request to establish road maintenance in the downtown to address resident concerns.,Transportation,Traffic Management,Resolved,Low,2024-08-15 10:25:44.082748,588
+Emily Smith,emily.smith@example.com,Request to upgrade road maintenance in the residential area for community development.,Infrastructure,City Planning,Resolved,Medium,2024-11-19 10:25:44.082748,739
+John Garcia,john.garcia@example.com,Request to enhance waste management in the business district for better quality of life.,Environment,Environmental Protection,In Progress,Low,2025-02-08 10:25:44.082748,543
+Robert Miller,robert.miller@example.com,Request to create waste management in the downtown for sustainable development.,Transportation,Traffic Management,In Progress,Low,2024-08-08 10:25:44.082748,266
+Michael Davis,michael.davis@example.com,Request to maintain waste management in the downtown to meet growing demands.,Infrastructure,City Planning,In Progress,Low,2024-08-16 10:25:44.082748,716
+Lisa Williams,lisa.williams@example.com,Request to maintain traffic signals in the business district to support local economy.,Education,Education,In Progress,Low,2024-08-01 10:25:44.082748,933
+Emily Brown,emily.brown@example.com,Request to expand water supply in the suburban area to support local economy.,Public Safety,Public Safety,Under Review,Low,2025-02-01 10:25:44.082748,165
+Lisa Jones,lisa.jones@example.com,Request to expand youth programs in the suburban area to address resident concerns.,Transportation,Traffic Management,Resolved,Low,2024-03-19 10:25:44.082748,295
+Sarah Jones,sarah.jones@example.com,Request to maintain sidewalk repairs in the suburban area to ensure public safety.,Community Services,Social Services,Resolved,High,2024-03-09 10:25:44.082748,905
+Michael Miller,michael.miller@example.com,Request to upgrade air quality in the north district for sustainable development.,Environment,Parks and Recreation,In Progress,Medium,2024-11-28 10:25:44.082748,10
+Sarah Miller,sarah.miller@example.com,Request to renovate park facilities in the south district to meet growing demands.,Infrastructure,Public Works,Resolved,Low,2024-12-03 10:25:44.082748,564
+Emily Johnson,emily.johnson@example.com,Request to implement road maintenance in the residential area to support local economy.,Transportation,Traffic Management,In Progress,Low,2024-06-07 10:25:44.082748,976
+Lisa Davis,lisa.davis@example.com,Request to upgrade youth programs in the downtown to support local economy.,Transportation,Transportation,Resolved,Medium,2025-01-10 10:25:44.082748,819
+Michael Brown,michael.brown@example.com,Request to develop youth programs in the north district for environmental protection.,Community Services,Social Services,Resolved,Low,2024-08-18 10:25:44.082748,743
+Lisa Davis,lisa.davis@example.com,Request to create waste management in the south district to meet growing demands.,Healthcare,Health Services,Resolved,Low,2024-05-02 10:25:44.082748,988
+Robert Brown,robert.brown@example.com,Request to establish road maintenance in the industrial zone to address resident concerns.,Education,Youth Services,In Progress,Low,2024-12-10 10:25:44.082748,858
+John Garcia,john.garcia@example.com,Request to establish noise pollution in the north district to meet growing demands.,Infrastructure,Public Works,Resolved,Low,2024-11-03 10:25:44.082748,670
+David Williams,david.williams@example.com,Request to maintain sidewalk repairs in the business district to meet growing demands.,Community Services,Community Development,In Progress,Low,2024-10-09 10:25:44.082748,131
+Michael Miller,michael.miller@example.com,Request to maintain community centers in the west side to ensure public safety.,Economic Development,Economic Development,In Progress,High,2024-06-09 10:25:44.082748,610
+Lisa Smith,lisa.smith@example.com,Request to renovate air quality in the industrial zone for better quality of life.,Education,Education,Resolved,Low,2024-03-02 10:25:44.082748,922
+John Garcia,john.garcia@example.com,Request to renovate bike lanes in the residential area to ensure public safety.,Healthcare,Public Health,In Progress,High,2024-05-17 10:25:44.082748,138
+Emily Davis,emily.davis@example.com,Request to improve bike lanes in the central area to ensure public safety.,Education,Youth Services,Resolved,High,2024-10-20 10:25:44.082748,286
+Sarah Brown,sarah.brown@example.com,Request to establish senior services in the west side for sustainable development.,Healthcare,Public Health,In Progress,Low,2024-07-06 10:25:44.082748,524
+Sarah Miller,sarah.miller@example.com,Request to create traffic signals in the downtown for community development.,Community Services,Community Development,Resolved,Low,2024-09-22 10:25:44.082748,824
+John Brown,john.brown@example.com,Request to develop sidewalk repairs in the east side for sustainable development.,Community Services,Social Services,Rejected,Low,2024-05-20 10:25:44.082748,526
+Emily Garcia,emily.garcia@example.com,Request to establish bike lanes in the industrial zone for future generations.,Education,Education,Rejected,Low,2024-12-12 10:25:44.082748,438
+John Brown,john.brown@example.com,Request to expand noise pollution in the industrial zone to meet growing demands.,Education,Youth Services,Resolved,Low,2024-05-09 10:25:44.082748,597
+John Miller,john.miller@example.com,Request to create small business support in the residential area to support local economy.,Healthcare,Health Services,Resolved,Low,2024-12-11 10:25:44.082748,320
+Sarah Davis,sarah.davis@example.com,Request to enhance air quality in the north district for community development.,Healthcare,Public Health,Resolved,Low,2024-06-21 10:25:44.082748,565
+Lisa Williams,lisa.williams@example.com,Request to develop waste management in the business district to meet growing demands.,Economic Development,Business Relations,Under Review,Low,2025-01-19 10:25:44.082748,535
+Emily Jones,emily.jones@example.com,Request to enhance youth programs in the business district for sustainable development.,Infrastructure,City Planning,Resolved,Low,2024-03-10 10:25:44.082748,515
+Jane Smith,jane.smith@example.com,Request to establish public transportation in the west side for better quality of life.,Infrastructure,Public Works,In Progress,Low,2025-02-12 10:25:44.082748,121
+Robert Williams,robert.williams@example.com,Request to establish affordable housing in the north district for future generations.,Infrastructure,City Planning,Resolved,Low,2024-09-15 10:25:44.082748,493
+Jane Jones,jane.jones@example.com,Request to develop senior services in the south district to address resident concerns.,Transportation,Traffic Management,Resolved,Low,2024-10-07 10:25:44.082748,993
+Emily Johnson,emily.johnson@example.com,Request to implement school facilities in the west side to ensure public safety.,Public Safety,Public Safety,In Progress,High,2024-09-21 10:25:44.082748,123
+Michael Johnson,michael.johnson@example.com,Request to develop public safety in the industrial zone for sustainable development.,Public Safety,Emergency Services,In Progress,High,2024-04-12 10:25:44.082748,808
+Jane Miller,jane.miller@example.com,Request to implement traffic signals in the north district for community development.,Environment,Environmental Protection,Resolved,Low,2024-11-19 10:25:44.082748,667
+Sarah Davis,sarah.davis@example.com,Request to upgrade park facilities in the central area to address resident concerns.,Public Safety,Public Safety,Resolved,Medium,2024-08-13 10:25:44.082748,715
+David Johnson,david.johnson@example.com,Request to implement traffic signals in the west side to support local economy.,Healthcare,Public Health,Resolved,Low,2024-05-20 10:25:44.082748,351
+Robert Johnson,robert.johnson@example.com,Request to renovate small business support in the east side for environmental protection.,Public Safety,Public Safety,Resolved,Low,2024-09-12 10:25:44.082748,147
+Robert Garcia,robert.garcia@example.com,Request to renovate public safety in the east side for future generations.,Infrastructure,Public Works,Resolved,High,2024-10-11 10:25:44.082748,42
+Robert Smith,robert.smith@example.com,Request to enhance street lighting in the south district to address resident concerns.,Economic Development,Business Relations,Resolved,Low,2024-08-01 10:25:44.082748,727
+Emily Garcia,emily.garcia@example.com,Request to create small business support in the suburban area for future generations.,Transportation,Transportation,Rejected,Low,2024-02-23 10:25:44.082748,485
+Emily Williams,emily.williams@example.com,Request to renovate waste management in the north district for community development.,Healthcare,Health Services,Resolved,Low,2024-03-11 10:25:44.082748,562
+Emily Johnson,emily.johnson@example.com,Request to develop street lighting in the south district for sustainable development.,Environment,Environmental Protection,Resolved,Low,2024-08-04 10:25:44.082748,143
+Michael Johnson,michael.johnson@example.com,Request to expand waste management in the west side for better quality of life.,Environment,Parks and Recreation,In Progress,Low,2024-12-11 10:25:44.082748,320
+Lisa Smith,lisa.smith@example.com,Request to enhance school facilities in the west side for environmental protection.,Transportation,Traffic Management,In Progress,Low,2024-11-25 10:25:44.082748,848
+Michael Johnson,michael.johnson@example.com,Request to expand bike lanes in the central area to improve accessibility.,Transportation,Transportation,Resolved,Medium,2024-12-18 10:25:44.082748,965
+Michael Johnson,michael.johnson@example.com,Request to improve air quality in the east side to meet growing demands.,Transportation,Transportation,In Progress,Medium,2024-09-26 10:25:44.082748,204
+David Brown,david.brown@example.com,Request to expand water supply in the east side for community development.,Healthcare,Public Health,Resolved,Low,2024-03-21 10:25:44.082748,562
+Robert Davis,robert.davis@example.com,Request to upgrade traffic signals in the west side to support local economy.,Education,Youth Services,Rejected,Medium,2024-03-02 10:25:44.082748,471
+Emily Miller,emily.miller@example.com,Request to upgrade air quality in the suburban area for environmental protection.,Healthcare,Health Services,Resolved,Medium,2024-07-07 10:25:44.082748,381
+Sarah Miller,sarah.miller@example.com,Request to implement small business support in the downtown for community development.,Environment,Parks and Recreation,Resolved,Low,2024-11-06 10:25:44.082748,303
+Emily Miller,emily.miller@example.com,Request to upgrade sidewalk repairs in the east side to meet growing demands.,Education,Youth Services,Resolved,Medium,2024-06-08 10:25:44.082748,824
+David Miller,david.miller@example.com,Request to expand bike lanes in the residential area for environmental protection.,Economic Development,Economic Development,In Progress,Low,2024-06-18 10:25:44.082748,909
+David Johnson,david.johnson@example.com,Request to implement street lighting in the suburban area to improve accessibility.,Infrastructure,Public Works,Rejected,Medium,2024-10-27 10:25:44.082748,21
+John Williams,john.williams@example.com,Request to maintain air quality in the south district for sustainable development.,Community Services,Social Services,Rejected,Low,2024-08-07 10:25:44.082748,743
+Michael Miller,michael.miller@example.com,Request to renovate healthcare access in the business district to address resident concerns.,Healthcare,Health Services,Rejected,Low,2024-02-28 10:25:44.082748,766
+David Miller,david.miller@example.com,Request to upgrade noise pollution in the east side for better quality of life.,Healthcare,Health Services,Rejected,Medium,2024-02-25 10:25:44.082748,394
+Jane Garcia,jane.garcia@example.com,Request to renovate noise pollution in the central area for community development.,Environment,Parks and Recreation,In Progress,Low,2024-05-11 10:25:44.082748,71
+Emily Johnson,emily.johnson@example.com,Request to establish school facilities in the west side to improve accessibility.,Transportation,Transportation,Resolved,Medium,2024-06-05 10:25:44.082748,89
+Michael Miller,michael.miller@example.com,Request to expand traffic signals in the suburban area for sustainable development.,Transportation,Transportation,Resolved,Low,2024-06-19 10:25:44.082748,185
+Michael Davis,michael.davis@example.com,Request to enhance waste management in the downtown for community development.,Education,Youth Services,Resolved,Low,2024-10-22 10:25:44.082748,71
+Robert Davis,robert.davis@example.com,Request to implement road maintenance in the industrial zone for sustainable development.,Public Safety,Public Safety,In Progress,Low,2024-11-22 10:25:44.082748,197
+Emily Brown,emily.brown@example.com,Request to enhance traffic signals in the west side to meet growing demands.,Infrastructure,City Planning,Resolved,Low,2024-06-26 10:25:44.082748,160
+John Smith,john.smith@example.com,Request to maintain healthcare access in the suburban area for sustainable development.,Transportation,Traffic Management,Resolved,Low,2024-08-31 10:25:44.082748,346
+Michael Johnson,michael.johnson@example.com,Request to create street lighting in the south district for environmental protection.,Infrastructure,City Planning,Resolved,Low,2024-06-29 10:25:44.082748,692
+Lisa Miller,lisa.miller@example.com,Request to enhance public transportation in the suburban area for better quality of life.,Public Safety,Public Safety,Resolved,Low,2025-01-13 10:25:44.082748,715
+Robert Garcia,robert.garcia@example.com,Request to improve street lighting in the business district for sustainable development.,Infrastructure,City Planning,Rejected,Medium,2024-05-31 10:25:44.082748,942
+Sarah Garcia,sarah.garcia@example.com,Request to establish road maintenance in the west side for environmental protection.,Public Safety,Public Safety,Resolved,Low,2024-09-02 10:25:44.082748,381
+Michael Miller,michael.miller@example.com,Request to enhance community centers in the business district to address resident concerns.,Transportation,Traffic Management,In Progress,Low,2024-03-25 10:25:44.082748,292
+Jane Jones,jane.jones@example.com,Request to enhance senior services in the west side for sustainable development.,Public Safety,Emergency Services,In Progress,Low,2024-11-06 10:25:44.082748,676
+John Garcia,john.garcia@example.com,Request to develop school facilities in the business district for community development.,Education,Education,Resolved,Low,2024-04-15 10:25:44.082748,725
+Lisa Smith,lisa.smith@example.com,Request to improve parking facilities in the industrial zone to ensure public safety.,Environment,Parks and Recreation,In Progress,High,2024-04-15 10:25:44.082748,110
+Michael Williams,michael.williams@example.com,Request to renovate school facilities in the business district to address resident concerns.,Education,Youth Services,Resolved,Low,2024-06-20 10:25:44.082748,971
+Robert Davis,robert.davis@example.com,Request to maintain healthcare access in the east side for better quality of life.,Transportation,Traffic Management,Resolved,Low,2024-08-23 10:25:44.082748,551
+John Miller,john.miller@example.com,Request to implement community centers in the residential area for community development.,Infrastructure,Public Works,Resolved,Low,2024-06-16 10:25:44.082748,84
+Lisa Davis,lisa.davis@example.com,Request to renovate community centers in the suburban area to address resident concerns.,Economic Development,Business Relations,In Progress,Low,2024-10-10 10:25:44.082748,126
+Jane Smith,jane.smith@example.com,Request to create parking facilities in the south district for future generations.,Infrastructure,City Planning,Resolved,Low,2024-04-29 10:25:44.082748,4
+Jane Davis,jane.davis@example.com,Request to improve air quality in the south district for future generations.,Environment,Parks and Recreation,Resolved,Medium,2024-12-10 10:25:44.082748,754
+Sarah Garcia,sarah.garcia@example.com,Request to create sidewalk repairs in the east side for community development.,Public Safety,Emergency Services,In Progress,Low,2024-04-17 10:25:44.082748,819
+Michael Jones,michael.jones@example.com,Request to establish small business support in the north district to address resident concerns.,Transportation,Transportation,Resolved,Low,2024-07-10 10:25:44.082748,60
+Michael Smith,michael.smith@example.com,Request to establish park facilities in the central area for environmental protection.,Community Services,Community Development,Under Review,Low,2025-01-17 10:25:44.082748,761
+Robert Brown,robert.brown@example.com,Request to expand waste management in the south district to address resident concerns.,Education,Education,In Progress,Low,2024-09-20 10:25:44.082748,458
+David Williams,david.williams@example.com,Request to establish water supply in the industrial zone to support local economy.,Public Safety,Public Safety,Resolved,Low,2024-07-09 10:25:44.082748,846
+Emily Garcia,emily.garcia@example.com,Request to develop parking facilities in the suburban area to ensure public safety.,Healthcare,Health Services,In Progress,High,2024-04-07 10:25:44.082748,60
+Lisa Johnson,lisa.johnson@example.com,Request to renovate road maintenance in the south district to ensure public safety.,Infrastructure,Public Works,Resolved,High,2024-04-27 10:25:44.082748,562
+Jane Johnson,jane.johnson@example.com,Request to improve street lighting in the residential area to ensure public safety.,Transportation,Transportation,In Progress,High,2024-07-13 10:25:44.082748,560
+Robert Johnson,robert.johnson@example.com,Request to improve youth programs in the industrial zone for environmental protection.,Infrastructure,Public Works,Resolved,Medium,2024-10-06 10:25:44.082748,771
+Emily Jones,emily.jones@example.com,Request to expand parking facilities in the residential area for future generations.,Transportation,Traffic Management,Resolved,Low,2024-03-14 10:25:44.082748,423
