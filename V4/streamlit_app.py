@@ -204,6 +204,41 @@ st.markdown("""
         max-height: 200px;
         overflow-y: auto;
     }
+    .admin-table {
+        margin-top: 10px;
+        margin-bottom: 20px;
+        border-collapse: separate;
+        border-spacing: 0;
+        width: 100%;
+        border: 1px solid #e6e6e6;
+        border-radius: 5px;
+        overflow: hidden;
+    }
+    .admin-table th {
+        background-color: #4a6fa5;
+        color: white;
+        padding: 12px 15px;
+        text-align: left;
+        font-size: 16px;
+    }
+    .admin-table td {
+        padding: 10px 15px;
+        border-bottom: 1px solid #e6e6e6;
+        font-size: 15px;
+    }
+    .admin-table tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .admin-table tr:hover {
+        background-color: #f1f1f1;
+    }
+    .admin-table .code-cell {
+        font-family: monospace;
+        background-color: #f0f0f0;
+        padding: 2px 6px;
+        border-radius: 3px;
+        color: #333;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -301,7 +336,7 @@ def show_login_page():
         
         # Only show department selection for admin, but don't use it for validation
         if login_type == "Admin":
-            st.info("Note: For admin login, use the correct username format (admin_XXX) as shown below.")
+            st.info("Note: For admin login, use the correct username format as shown in the table below.")
         
         login_button = st.button("Login")
         
@@ -334,19 +369,28 @@ def show_login_page():
         if login_type == "User":
             st.code("Username: test_user\nPassword: user123")
         else:
-            st.markdown("### Admin Credentials by Department:")
+            st.markdown("### Admin Credentials by Department")
             
-            # Create a clear table of admin credentials
-            admin_table = "<table style='width:100%; border-collapse: collapse;'>"
-            admin_table += "<tr style='background-color:#f0f0f0'><th style='padding:8px; text-align:left; border:1px solid #ddd;'>Department</th><th style='padding:8px; text-align:left; border:1px solid #ddd;'>Username</th><th style='padding:8px; text-align:left; border:1px solid #ddd;'>Password</th></tr>"
+            # Create a data frame for admin credentials - much cleaner!
+            admin_data = []
+            for username, details in admin_credentials.items():
+                admin_data.append({
+                    "Department": details["department"],
+                    "Username": username,
+                    "Password": details["password"]
+                })
             
-            for admin_user, details in admin_credentials.items():
-                dept = details["department"]
-                pwd = details["password"]
-                admin_table += f"<tr><td style='padding:8px; border:1px solid #ddd;'>{dept}</td><td style='padding:8px; border:1px solid #ddd;'>{admin_user}</td><td style='padding:8px; border:1px solid #ddd;'>{pwd}</td></tr>"
+            # Convert to DataFrame and display as a styled table
+            creds_df = pd.DataFrame(admin_data)
+            st.dataframe(creds_df, use_container_width=True, 
+                        column_config={
+                            "Department": st.column_config.TextColumn("Department"),
+                            "Username": st.column_config.TextColumn("Username", help="Admin username"),
+                            "Password": st.column_config.TextColumn("Password", help="Admin password")
+                        })
             
-            admin_table += "</table>"
-            st.markdown(admin_table, unsafe_allow_html=True)
+            # Add helpful note
+            st.info("Use the credentials from the table above to log in as an admin.")
 
 # User Dashboard
 def show_user_dashboard():
