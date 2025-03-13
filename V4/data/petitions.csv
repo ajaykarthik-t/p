@@ -1,0 +1,9 @@
+id,name,phone,address,description,files,department,urgency,status,date_submitted,submitted_by
+7ace6c37,Ajay,9600309140,"123 Oak Avenue, Boston, MA 02115","Here are sample data inputs for submitting a new petition through the system:
+Sample Petition #1: Education Department
+Full Name: John Smith
+Phone Number: +1-555-123-4567
+Address: 123 Oak Avenue, Boston, MA 02115
+Petition Description:
+Our local school, Washington Elementary, has been experiencing severe shortages of qualified teachers for mathematics and science subjects. Many classes are being taught by substitute teachers who lack proper certification in these fields. This has resulted in declining test scores and student engagement. We need immediate intervention to ensure our children receive quality education in these critical subjects. The school administration has acknowledged the issue but claims budget constraints prevent them from hiring adequately qualified staff.",,Water,High,In Progress,2025-03-13 07:26:50,test_user
+28ed6e15,Ajay Karthik,09600309140,"7th Cross Rd, Teacher's Colony, Jakkasandra","Our school, Lincoln High School, is experiencing a severe shortage of qualified science teachers. Students are falling behind in their coursework, especially in chemistry and physics. We've raised this issue with the principal multiple times over the past 3 months, but no action has been taken due to budget constraints. We request immediate intervention to ensure our children receive adequate education in these critical subjects before the upcoming standardized tests.",,Education,Normal,In Progress,2025-03-13 07:33:15,test_user

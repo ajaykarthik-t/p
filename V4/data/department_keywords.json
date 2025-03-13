@@ -1,0 +1,110 @@
+{
+    "Education": [
+        "school",
+        "{school_name}",
+        "{subject}.",
+        "doesn't",
+        "would",
+        "request",
+        "improvement",
+        "curriculum",
+        "current",
+        "material"
+    ],
+    "Health": [
+        "waiting",
+        "{waiting_time}",
+        "months",
+        "health",
+        "appointment",
+        "{hospital_name}.",
+        "delay",
+        "affecting",
+        "condition",
+        "severely."
+    ],
+    "Transport": [
+        "service",
+        "causing",
+        "{street_name}",
+        "public",
+        "route",
+        "{route_number}",
+        "consistently",
+        "late,",
+        "workers",
+        "their"
+    ],
+    "Taxation": [
+        "property",
+        "businesses",
+        "believe",
+        "there's",
+        "error",
+        "assessment.",
+        "value",
+        "overstated",
+        "approximately",
+        "{percentage}%."
+    ],
+    "Housing": [
+        "housing",
+        "building",
+        "{location}",
+        "residents.",
+        "affordable",
+        "apartment",
+        "{address}",
+        "without",
+        "proper",
+        "heating"
+    ],
+    "Energy": [
+        "without",
+        "energy",
+        "we've",
+        "experiencing",
+        "frequent",
+        "power",
+        "outages",
+        "{location},",
+        "especially",
+        "during"
+    ],
+    "Water": [
+        "water",
+        "{location}",
+        "{time_period}",
+        "quality",
+        "deteriorated.",
+        "strange",
+        "{characteristic}",
+        "might",
+        "unsafe",
+        "consumption."
+    ],
+    "Agriculture": [
+        "farmers",
+        "crops",
+        "agricultural",
+        "{crop_type}",
+        "unable",
+        "their",
+        "recent",
+        "{weather_condition}",
+        "damaged",
+        "region."
+    ],
+    "Infrastructure": [
+        "needs",
+        "community",
+        "public",
+        "{location}",
+        "bridge",
+        "{street_name}",
+        "dangerous",
+        "condition.",
+        "several",
+        "cracks"
+    ]
+}
